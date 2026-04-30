@@ -1,0 +1,37 @@
+-- MySQL dump 10.13  Distrib 8.0.32, for Win64 (x86_64)
+--
+-- Host: ix-dev.cs.uoregon.edu    Database: ek_data
+-- ------------------------------------------------------
+-- Server version	8.0.30
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!50503 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Dumping data for table `hold_item`
+--
+
+LOCK TABLES `hold_item` WRITE;
+/*!40000 ALTER TABLE `hold_item` DISABLE KEYS */;
+INSERT INTO `hold_item` VALUES ('Aguav Berry','A hold item that restores HP but may confuse.'),('Amulet Coin','Doubles money in battle if the holder takes part.'),('Apicot Berry','A hold item that raises SP. DEF in a pinch.'),('Aspear Berry','A hold item that defrosts Pokemon in battle.'),('Belue Berry','A Berry to be used in cooking.'),('Berry Juice','A 100% pure juice. It restores the HP of one Pokémon by 20 points.'),('Black Belt','A hold item that boosts FIGHTING- type moves.'),('Black Glasses','A hold item that raises the power of DARK-type moves.'),('Blue Scarf','A hold item that raises BEAUTY in CONTESTS.'),('Bluk Berry','A Berry to be used in cooking.'),('Bright Powder','A hold item that casts a glare to reduce accuracy.'),('Charcoal','A hold item that raises the power of FIRE-type moves.'),('Cheri Berry','A hold item that heals paralysis in battle.'),('Chesto Berry','A hold item that awakens Pokemon in battle.'),('Choice Band','Raises a move\'s power, but permits only that move.'),('Cleanse Tag','A hold item that helps repel wild Pokemon.'),('Cornn Berry','A Berry to be used in cooking.'),('Deep Sea Scale','A hold item that raises the SP. DEF of CLAMPERL.'),('Deep Sea Tooth','A hold item that raises the SP. ATK of CLAMPERL.'),('Dragon Fang','A hold item that raises the power of DRAGON-type moves.'),('Durin Berry','A Berry to be used in cooking.'),('Enigma Berry','A Berry to be used in cooking.'),('Everstone','A wondrous stone & a hold item that prevents evolution.'),('Exp. Share','A hold item that gets EXP. points from battles.'),('Figy Berry','A hold item that restores HP but may confuse.'),('Focus Band','A hold item that occasionally prevents fainting.'),('Ganlon Berry','A hold item that raises DEF in a pinch.'),('Green Scarf','A hold item that raises SMART in CONTESTS.'),('Grepa Berry','Makes a Pokemon friendly but lowers base SP. DEF.'),('Hard Stone','A hold item that raises the power of ROCK-type moves.'),('Hondew Berry','Makes a Pokemon friendly but lowers base SP. ATK.'),('Iapapa Berry','A hold item that restores HP but may confuse.'),('Kelpsy Berry','Makes a Pokemon friendly but lowers base ATK.'),('King\'s Rock','A hold item that may cause flinching when the foe is hit.'),('Lansat Berry','A hold item that ups the critical-hit rate in a pinch.'),('Lax Incense','A hold item that slightly lowers the foe\'s accuracy.'),('Leftovers','A hold item that gradually restores HP in battle.'),('Leppa Berry','A hold item that restores 10 PP in battle.'),('Liechi Berry','A hold item that raises ATK in a pinch.'),('Light Ball','A hold item that raises the SP. ATK of PIKACHU.'),('Lucky Egg','A hold item that boosts EXP. points earned in battle.'),('Lucky Punch','A hold item that raises CHANSEY\'s critical-hit rate.'),('Lum Berry','A hold item that heals any status problem in battle.'),('Macho Brace','A hold item that promotes growth, but reduces SPEED.'),('Magnet','A hold item that boosts ELECTRIC- type moves.'),('Mago Berry','A hold item that restores HP but may confuse.'),('Magost Berry','A Berry to be used in cooking.'),('Mental Herb','A hold item that snaps Pokemon out of infatuation.'),('Metal Coat','A hold item that raises the power of STEEL-type moves.'),('Metal Powder','A hold item that raises DEFENSE of DITTO.'),('Miracle Seed','A hold item that raises the power of GRASS-type moves.'),('Mystic Water','A hold item that raises the power of WATER-type moves.'),('Nanab Berry','A Berry to be used in cooking.'),('Never-Melt Ice','A hold item that raises the power of ICE-type moves.'),('Nomel Berry','A Berry to be used in cooking.'),('Oran Berry','A hold item that restores 10 HP in battle.'),('Pamtre Berry','A Berry to be used in cooking.'),('Pecha Berry','A hold item that heals poisoning in battle.'),('Persim Berry','A hold item that heals confusion in battle.'),('Petaya Berry','A hold item that raises SP. ATK in a pinch.'),('Pinap Berry','A Berry to be used in cooking.'),('Pink Scarf','A hold item that raises CUTE in CONTESTS.'),('Poison Barb','A hold item that raises the power of POISON-type moves.'),('Pomeg Berry','Makes a Pokemon friendly but lowers base HP.'),('Qualot Berry','Makes a Pokemon friendly but lowers base DEF.'),('Quick Claw','A hold item that occasionally allows the first strike.'),('Rabuta Berry','A Berry to be used in cooking.'),('Rawst Berry','A hold item that heals a burn in battle.'),('Razz Berry','A Berry to be used in cooking.'),('Red Scarf','A hold item that raises COOL in CONTESTS.'),('Salac Berry','A hold item that raises SPD in a pinch.'),('Scope Lens','A hold item that raises the critical- hit rate.'),('Sea Incense','A hold item that slightly boosts WATER-type moves.'),('Sharp Beak','A hold item that raises the power of FLYING-type moves.'),('Shell Bell','A hold item that restores HP upon striking the foe.'),('Silk Scarf','A hold item that raises the power of NORMAL-type moves.'),('Silver Powder','A hold item that raises the power of BUG-type moves.'),('Sitrus Berry','A hold item that restores 30 HP in battle.'),('Smoke Ball','A hold item that can be used to flee from a wild Pokemon.'),('Soft Sand','A hold item that raises the power of GROUND-type moves.'),('Soothe Bell','A hold item that calms spirits and fosters friendship.'),('Soul Dew','Hold item Raises SP. ATK & SP. DEF of LATIOS & LATIAS.'),('Spell Tag','A hold item that raises the power of GHOST-type moves.'),('Spelon Berry','A Berry to be used in cooking.'),('Starf Berry','A hold item that sharply boosts a stat in a pinch.'),('Stick','A stick of leek. Raises the critical-hit rate of FARFETCH\'D.'),('Thick Club','A bone of some sort. Doubles the ATK of Cubone & Marowak.'),('Tomato Berry','Makes a Pokemon friendly but lowers base SP. DEF.'),('Twisted Spoon','A hold item that boosts PSYCHIC- type moves.'),('Watmel Berry','A Berry to be used in cooking.'),('Wepear Berry','A Berry to be used in cooking.'),('White Herb','A hold item that restores any lowered stat.'),('Wiki Berry','A hold item that restores HP but may confuse.'),('Yellow Scarf','A hold item that raises TOUGH in CONTESTS.');
+/*!40000 ALTER TABLE `hold_item` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2024-03-12 15:36:04

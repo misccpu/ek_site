@@ -25,14 +25,10 @@ div {
     border: 3px solid powderblue;
 }
 
-pre {
-    
-}
-
 .column {
     float: left;
     width: 50%;
-    padding 10px;
+    padding: 10px;
 }
 
 .row:after {

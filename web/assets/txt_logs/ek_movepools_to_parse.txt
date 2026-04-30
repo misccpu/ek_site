@@ -1,0 +1,4700 @@
+Bulbasaur
+1 Tackle
+4 Absorb
+7 Vine Whip
+10 Headbutt
+14 Acid
+15 Razor Leaf
+20 Magical Leaf
+25 Sludge Bomb
+32 Leaf Blade
+39 Synthesis
+46 Sleep Powder
+
+Ivysaur
+1 Body Slam
+1 Sweet Scent
+1 Mud-Slap
+4 Ingrain
+7 Headbutt
+10 Vine Whip
+16 Razor Leaf
+16 Acid
+22 Magical Leaf
+29 Sludge Bomb
+38 Leaf Blade
+47 Synthesis
+56 Sleep Powder
+
+Venusaur
+1 Giga Drain
+1 Sweet Scent
+1 Ancient Power
+1 Toxic
+4 Frenzy Plant
+7 Petal Dance
+10 Block
+15 Nature Power
+15 Weather Ball
+22 Razor Leaf
+29 Sludge Bomb
+41 Leaf Blade
+53 Synthesis
+65 Sleep Powder
+
+Charmander
+1 Scratch
+1 Ember
+7 Smokescreen
+13 Metal Claw
+19 Quick Attack
+25 Fire Punch
+31 Bite
+37 Slash
+43 Dragon Rage
+49 Flamethrower
+
+Charmeleon
+1 Dragon Breath
+1 Fire Spin
+1 Ember
+7 Smokescreen
+13 Metal Claw
+20 Quick Attack
+27 Fire Punch
+34 Bite
+41 Slash
+48 Dragon Rage
+55 Flamethrower
+
+Charizard
+1 Scratch
+1 Dragon Breath
+1 Ember
+1 Dragon Claw
+7 Smokescreen
+13 Metal Claw
+20 Quick Attack
+27 Fire Punch
+34 Bite
+36 Wing Attack
+44 Slash
+54 Dragon Rage
+64 Flamethrower
+
+Squirtle
+1 Tackle
+4 Bubble
+7 Water Gun
+10 Bite
+13 Seismic Toss
+18 Secret Power
+23 Aurora Beam
+28 Bubble Beam
+33 Body Slam
+40 Ice Punch
+47 Hydro Pump
+
+Wartortle
+1 Fake Out
+1 Mirror Coat
+1 Water Spout
+4 Mud-Slap
+7 Bubble
+10 Bite
+13 Seismic Toss
+19 Secret Power
+25 Aurora Beam
+31 Bubble Beam
+37 Body Slam
+45 Ice Punch
+53 Hydro Pump
+
+Blastoise
+1 Mirror Coat
+1 Fake Out
+1 Yawn
+1 Muddy Water
+2 Refresh
+2 Water Spout
+2 Signal Beam
+13 Bite
+19 Secret Power
+25 Seismic Toss
+31 Bubble Beam
+42 Body Slam
+55 Ice Punch
+68 Hydro Pump
+
+Caterpie
+1 Tackle
+1 String Shot
+
+Metapod
+1 Tackle
+7 Harden
+
+Butterfree
+1 Confusion
+10 Confusion
+13 Poison Powder
+14 Supersonic
+15 Aerial Ace
+18 Silver Wind
+23 Psybeam
+28 Stun Spore
+34 Sleep Powder
+40 Giga Drain
+47 Signal Beam
+
+Weedle
+1 Poison Sting
+1 String Shot
+
+Kakuna
+1 Poison Sting
+7 Harden
+
+Beedrill
+1 Pin Missile
+10 Pin Missile
+12 Toxic
+16 Twineedle
+24 Sludge Bomb
+25 Endeavor
+28 Knock Off
+32 X-Scissors
+36 Drill Run
+
+Pidgey
+1 Quick Attack
+5 Sand-Attack
+9 Gust
+13 Swift
+19 Air Slash
+25 Double-Edge
+31 Quick Attack
+39 Whirlwind
+47 Sky Attack
+
+Pidgeotto
+1 Mud-Slap
+1 Swift
+1 Faint Attack
+5 Sand-Attack
+9 Gust
+13 Quick Attack
+20 Air Slash
+27 Refresh
+30 Steel Wing
+43 Double-Edge
+52 Sky Attack
+
+Pidgeot
+1 Swift
+1 Refresh
+1 Sand-Attack
+1 Mud-Slap
+5 Faint Attack
+9 Air Slash
+13 Whirlwind
+20 Quick Attack
+30 Steel Wing
+34 Double-Edge
+48 Heat Wave
+62 Sky Attack
+
+Rattata
+1 Pursuit
+1 Quick Attack
+13 Hyper Fang
+20 Endeavor
+22 Shadow Ball
+24 Super Fang
+26 Facade
+28 Quick Attack
+
+Raticate
+1 Thunder Wave
+2 Pursuit
+5 Quick Attack
+13 Hyper Fang
+20 Endeavor
+24 Shadow Ball
+28 Super Fang
+32 Facade
+36 Quick Attack
+
+Spearow
+1 Peck
+1 Pursuit
+7 Tackle
+13 Secret Power
+19 Rage
+22 Steel Wing
+25 Aerial Ace
+28 Drill Peck
+30 Double-Edge
+
+Fearow
+1 Double-Edge
+1 Heat Wave
+7 False Swipe
+8 Quick Attack
+20 Secret Power
+26 Aerial Ace
+29 Steel Wing
+30 Tri Attack
+32 Drill Peck
+36 Drill Run
+
+Ekans
+1 Wrap
+1 Pursuit
+8 Acid
+13 Bite
+20 Glare
+25 Crunch
+30 Sludge Bomb
+37 Toxic
+37 Rock Slide
+37 Earthquake
+44 Poison Fang
+
+Arbok
+1 Wrap
+1 Giga Drain
+1 Pursuit
+1 Headbutt
+8 Acid
+13 Bite
+20 Glare
+28 Crunch
+36 Sludge Bomb
+46 Toxic
+46 Rock Slide
+46 Earthquake
+56 Poison Fang
+
+Pichu
+1 Thunder Shock
+1 Charm
+6 Quick Attack
+8 Thunder Wave
+11 Sweet Kiss
+
+Pikachu
+1 Thunder Shock
+1 Quick Attack
+6 Swift
+8 Thunder Wave
+11 Thunder Punch
+15 Seismic Toss
+20 Wild Charge
+26 Thunderbolt
+33 Signal Beam
+41 Surf
+50 Volt Tackle
+
+Raichu
+1 Seismic Toss
+1 Signal Beam
+1 Quick Attack
+1 Thunderbolt
+
+Sandshrew
+1 Scratch
+6 Poison Sting
+11 Sand-Attack
+16 Dig
+23 Swift
+30 Rock Slide
+37 Slash
+45 Earthquake
+53 Crush Claw
+
+Sandslash
+1 Scratch
+1 Magnitude
+1 Sand-Attack
+6 Poison Sting
+11 Sand-Attack
+16 Dig
+24 Slash
+33 Body Slam
+42 Rock Slide
+52 Earthquake
+62 Crush Claw
+
+Nidoran(f)
+1 Poison Sting
+1 Scratch
+8 Bite
+12 Double Kick
+17 Helping Hand
+20 Bite
+23 Dig
+30 Fury Swipes
+38 Flatter
+47 Crunch
+
+Nidorina
+1 Counter
+2 Bite
+8 Super Fang
+16 Crunch
+18 Body Slam
+22 Dig
+26 Sludge Bomb
+34 Flatter
+40 Drill Run
+53 Poison Fang
+
+Nidoqueen
+1 Super Fang
+1 Poison Fang
+1 Poison Tail
+42 Drill Run
+48 Superpower
+
+Nidoran(m)
+1 Poison Sting
+2 Peck
+8 Horn Attack
+12 Double Kick
+16 Helping Hand
+20 Sludge Bomb
+23 Dig
+30 Flatter
+38 Head Smash
+47 Drill Run
+
+Nidorino
+1 Poison Sting
+1 Peck
+8 Horn Attack
+12 Double Kick
+18 Thrash
+22 Dig
+26 Flatter
+34 Sludge Bomb
+43 Head Smash
+53 Drill Run
+
+Nidoking
+1 Poison Tail
+2 Poison Fang
+42 Drill Run
+45 Megahorn
+48 Head Smash
+
+Cleffa
+1 Present
+1 Attract
+4 Follow Me
+8 Pound
+13 Sweet Kiss
+
+Clefairy
+1 Pound
+1 Sing
+5 Headbutt
+9 Sweet Kiss
+13 Magical Leaf
+17 Follow Me
+21 Body Slam
+25 Tri Attack
+29 Signal Beam
+33 Helping Hand
+37 Moonlight
+41 Hyper Voice
+45 Meteor Mash
+
+Clefable
+1 Endeavor
+1 Seismic Toss
+1 Wish
+1 Recycle
+
+Vulpix
+1 Ember
+5 Quick Attack
+9 Roar
+13 Bite
+17 Flame Wheel
+21 Body Slam
+25 Confuse Ray
+29 Flamethrower
+33 Safeguard
+36 Extrasensory
+64 Will-o-Wisp
+
+Ninetales
+1 Hypnosis
+1 Bite
+1 Confuse Ray
+1 Extrasensory
+45 Flamethrower
+
+Igglybuff
+1 Sing
+1 Charm
+4 Secret Power
+9 Pound
+14 Sweet Kiss
+
+Jigglypuff
+1 Sing
+4 Pound
+9 Disable
+14 Seismic Toss
+19 Body Slam
+24 Brick Break
+29 Double-Edge
+34 Thunder Wave
+39 Shadow Ball
+44 Hyper Voice
+49 Recycle
+
+Wigglytuff
+1 Sing
+1 Brick Break
+1 Hyper Voice
+1 Shadow Ball
+
+Zubat
+1 Leech Life
+6 Supersonic
+7 Wing Attack
+13 Bite
+17 Aerial Ace
+24 Sludge Bomb
+28 Confuse Ray
+36 Air Slash
+41 Mean Look
+46 Poison Fang
+
+Golbat
+1 Heat Wave
+1 Leech Life
+1 Quick Attack
+1 Mega Drain
+6 Supersonic
+11 Wing Attack
+16 Bite
+21 Aerial Ace
+28 Sludge Bomb
+35 Confuse Ray
+42 Air Slash
+49 Mean Look
+56 Poison Fang
+
+Crobat
+1 Heat Wave
+1 Leech Life
+1 Quick Attack
+1 Mega Drain
+6 Supersonic
+11 Wing Attack
+16 Bite
+21 Aerial Ace
+28 Sludge Bomb
+35 Confuse Ray
+42 Air Slash
+49 Mean Look
+56 Poison Fang
+
+Oddish
+1 Mega Drain
+7 Acid
+14 Toxic
+18 Sludge Bomb
+23 Stun Spore
+32 Moonlight
+36 Petal Dance
+39 Sleep Powder
+
+Gloom
+1 Weather Ball
+2 Aromatherapy
+3 Toxic
+7 Sweet Scent
+16 Magical Leaf
+24 Sludge Bomb
+27 Stun Spore
+34 Moonlight
+36 Petal Dance
+42 Sleep Powder
+
+Vileplume
+1 Aromatherapy
+2 Sleep Powder
+29 Moonlight
+35 Sludge Bomb
+42 Petal Dance
+
+Bellossom
+1 Sleep Powder
+1 Magical Leaf
+2 Stun Spore
+29 Synthesis
+42 Petal Dance
+44 Double-Edge
+
+Paras
+1 Stun Spore
+5 Mega Drain
+9 Toxic
+13 Knock Off
+16 Body Slam
+19 Giga Drain
+24 X-Scissors
+25 Spore
+27 Aromatherapy
+
+Parasect
+1 Leech Life
+2 Stun Spore
+7 Mega Drain
+8 Toxic
+13 Knock Off
+19 Body Slam
+25 Brick Break
+26 Giga Drain
+28 X-Scissors
+30 Spore
+36 Aromatherapy
+
+Venonat
+1 Foresight
+2 Leech Life
+7 Psybeam
+16 Toxic
+20 Sludge Bomb
+22 Supersonic
+25 Psychic
+33 Signal Beam
+36 Stun Spore
+41 Sleep Powder
+45 Poison Fang
+
+Venomoth
+1 Disable
+1 Foresight
+1 Leech Life
+1 Psybeam
+9 Double-Edge
+20 Toxic
+25 Sludge Bomb
+28 Supersonic
+31 Silver Wind
+32 Psychic
+36 Signal Beam
+42 Stun Spore
+52 Sleep Powder
+58 Poison Fang
+
+Diglett
+1 Scratch
+1 Sand-Attack
+5 Sand Tomb
+9 Magnitude
+17 Dig
+25 Mud-Slap
+33 Slash
+41 Earthquake
+49 Rock Slide
+
+Dugtrio
+1 Sand Tomb
+1 Ancient Power
+1 Sand-Attack
+1 Earth Power
+5 Sand Tomb
+9 Magnitude
+17 Dig
+25 Mud-Slap
+26 Tri Attack
+38 Slash
+51 Earthquake
+64 Rock Slide
+
+Meowth
+1 Pay Day
+6 Faint Attack
+12 Swift
+16 Bite
+23 Slash
+27 Shadow Ball
+29 Body Slam
+36 Double-Edge
+40 Fake Out
+
+Persian
+1 Faint Attack
+1 Pay Day
+1 Swift
+17 Bite
+22 Slash
+29 Headbutt
+32 Shadow Ball
+36 Body Slam
+40 Double-Edge
+45 Fake Out
+
+Psyduck
+1 Water Gun
+2 Scratch
+5 Confusion
+7 Disable
+16 Bubble Beam
+23 Psychic
+31 Hypnosis
+40 Ice Beam
+45 Hydro Pump
+
+Golduck
+1 Confuse Ray
+1 Seismic Toss
+1 Signal Beam
+1 Yawn
+5 Disable
+22 Bubble Beam
+26 Cross Chop
+27 Psychic
+36 Hypnosis
+44 Ice Beam
+47 Hydro Pump
+
+Mankey
+1 Uproar
+1 Seismic Toss
+8 Karate Chop
+15 Rage
+17 Thrash
+21 Revenge
+27 Rock Slide
+33 Brick Break
+39 Endeavor
+51 Cross Chop
+
+Primeape
+1 Counter
+1 Beat Up
+1 Endure
+1 Reversal
+9 Karate Chop
+15 Seismic Toss
+21 Gunk Shot
+27 Rock Slide
+28 Revenge
+36 Brick Break
+45 Endeavor
+54 Body Slam
+63 Cross Chop
+
+Growlithe
+1 Bite
+1 Roar
+7 Ember
+13 Headbutt
+19 Flame Wheel
+25 Body Slam
+31 Crunch
+35 Flamethrower
+43 Wild Charge
+51 Morning Sun
+
+Arcanine
+1 Heat Wave
+31 Crunch
+41 Wild Charge
+48 Flamethrower
+49 Extreme Speed
+
+Poliwag
+1 Water Gun
+7 Hypnosis
+13 Bubble Beam
+19 Body Slam
+25 Water Pulse
+31 Mud Shot
+37 Ice Beam
+43 Hydro Pump
+
+Poliwhirl
+1 Bubble
+1 Hypnosis
+1 Water Gun
+7 Hypnosis
+13 Bubble Beam
+19 Hidden Power
+27 Body Slam
+35 Brick Break
+43 Mud Shot
+51 Hydro Pump
+
+Poliwrath
+1 Superpower
+1 Refresh
+1 Mud Shot
+1 Hypnosis
+35 Brick Break
+51 Hydro Pump
+
+Politoed
+1 Ice Punch
+1 Hypnosis
+1 Body Slam
+1 Hydro Pump
+35 Ice Punch
+51 Hydro Pump
+
+Abra
+1 Teleport
+
+Kadabra
+1 Teleport
+1 Kinesis
+1 Secret Power
+16 Confusion
+18 Disable
+21 Psybeam
+23 Shadow Ball
+25 Role Play
+30 Recover
+33 Teleport
+36 Psychic
+43 Signal Beam
+
+Alakazam
+1 Thunder Punch
+1 Thunder Wave
+1 Ice Punch
+16 Fire Punch
+18 Disable
+21 Magic Coat
+23 Signal Beam
+25 Role Play
+30 Recover
+33 Teleport
+36 Psychic
+43 Seismic Toss
+
+Machop
+1 Mega Punch
+1 Headbutt
+1 Tackle
+7 Karate Chop
+13 Seismic Toss
+19 Foresight
+22 Vital Throw
+25 Revenge
+31 Mega Kick
+37 Facade
+40 Cross Chop
+43 Rock Slide
+
+Machoke
+1 Mega Punch
+1 Counter
+1 Dynamic Punch
+1 Superpower
+7 Karate Chop
+13 Body Slam
+19 Seismic Toss
+22 Vital Throw
+25 Revenge
+33 Mega Kick
+41 Facade
+46 Cross Chop
+51 Rock Slide
+
+Machamp
+1 Dynamic Punch
+1 Fire Punch
+1 Counter
+1 Superpower
+7 Karate Chop
+13 Body Slam
+19 Seismic Toss
+22 Mega Kick
+25 Revenge
+33 Vital Throw
+41 Facade
+46 Cross Chop
+51 Rock Slide
+
+Bellsprout
+1 Vine Whip
+6 Acid
+11 Sweet Scent
+15 Toxic
+17 Wrap
+19 Stun Spore
+23 Razor Leaf
+30 Synthesis
+37 Sludge Bomb
+45 Sleep Powder
+
+Weepinbell
+1 Weather Ball
+2 Vine Whip
+3 Acid
+11 Wrap
+15 Razor Leaf
+17 Toxic
+18 Body Slam
+19 Stun Spore
+24 Sludge Bomb
+33 Synthesis
+36 Leaf Blade
+45 Sleep Powder
+
+Victreebel
+1 Body Slam
+36 Leaf Blade
+42 Gunk Shot
+50 Sleep Powder
+
+Tentacool
+1 Poison Sting
+6 Water Gun
+12 Acid
+19 Bubble Beam
+25 Aurora Beam
+29 Sludge Bomb
+36 Toxic
+43 Confuse Ray
+49 Hydro Pump
+
+Tentacruel
+1 Mirror Coat
+1 Muddy Water
+1 Confuse Ray
+6 Whirlpool
+12 Wrap
+19 Acid
+25 Bubble Beam
+29 Sludge Bomb
+38 Toxic
+47 Confuse Ray
+55 Hydro Pump
+
+Geodude
+1 Tackle
+1 Rock Throw
+6 Secret Power
+11 Magnitude
+16 Rock Slide
+21 Self-Destruct
+26 Body Slam
+31 Rock Blast
+36 Earthquake
+41 Explosion
+46 Double-Edge
+
+Graveler
+1 Ancient Power
+1 Earth Power
+1 Brick Break
+1 Rock Throw
+6 Secret Power
+11 Magnitude
+16 Rock Slide
+21 Self-Destruct
+29 Body Slam
+37 Rock Blast
+45 Earthquake
+53 Explosion
+62 Double-Edge
+
+Golem
+1 Head Smash
+1 Earth Power
+1 Ancient Power
+1 Rock Throw
+6 Secret Power
+11 Magnitude
+16 Rock Slide
+21 Self-Destruct
+29 Body Slam
+37 Rock Blast
+45 Earthquake
+53 Explosion
+62 Double-Edge
+
+Ponyta
+1 Stomp
+5 Ember
+9 Double Kick
+14 Flame Wheel
+19 Bounce
+25 Flamethrower
+31 Double-Edge
+38 Heat Wave
+45 Morning Sun
+53 Hypnosis
+
+Rapidash
+1 Quick Attack
+1 Will-o-Wisp
+1 Wild Charge
+1 Iron Tail
+5 Body Slam
+9 Overheat
+14 Bounce
+19 Fire Blast
+25 Flamethrower
+31 Drill Run
+38 Heat Wave
+40 Megahorn
+50 Morning Sun
+63 Hypnosis
+
+Slowpoke
+1 Headbutt
+2 Water Gun
+3 Yawn
+6 Confusion
+15 Bubble Beam
+20 Disable
+24 Aurora Beam
+29 Extrasensory
+34 Slack Off
+43 Psychic
+
+Slowbro
+1 Thunder Wave
+1 Yawn
+1 Whirlpool
+1 Magic Coat
+6 Recycle
+15 Signal Beam
+20 Body Slam
+29 Disable
+34 Slack Off
+37 Ice Punch
+46 Psychic
+54 Water Pulse
+
+Slowking
+1 Thunder Wave
+1 Yawn
+1 Signal Beam
+6 Magic Coat
+15 Recycle
+20 Water Pulse
+29 Extrasensory
+34 Slack Off
+37 Ice Beam
+43 Psychic
+
+Magnemite
+1 Flash Cannon
+1 Tackle
+6 Thunder Shock
+11 Supersonic
+16 Sonic Boom
+21 Thunder Wave
+26 Wild Charge
+32 Flash Cannon
+35 Signal Beam
+39 Thunderbolt
+42 Thunder Wave
+
+Magneton
+1 Tackle
+1 Thunder Shock
+1 Supersonic
+6 Thunder Shock
+11 Supersonic
+16 Sonic Boom
+21 Thunder Wave
+26 Wild Charge
+33 Tri Attack
+35 Signal Beam
+45 Flash Cannon
+46 Thunderbolt
+48 Thunder Wave
+
+Farfetch'd
+1 Peck
+6 Sand-Attack
+11 False Swipe
+16 Quick Attack
+21 Aerial Ace
+26 Slash
+31 Flail
+36 Leaf Blade
+41 Knock Off
+46 Sky Attack
+
+Doduo
+1 Peck
+1 Tackle
+9 Pursuit
+13 Rage
+21 Tri Attack
+25 Aerial Ace
+33 Uproar
+37 Drill Peck
+45 Quick Attack
+
+Dodrio
+1 Peck
+1 Double-Edge
+1 Endeavor
+1 Uproar
+9 Pursuit
+13 Quick Attack
+21 Tri Attack
+25 Aerial Ace
+38 Steel Wing
+47 Drill Peck
+60 Body Slam
+
+Seel
+1 Headbutt
+9 Bubble Beam
+14 Aurora Beam
+17 Icy Wind
+29 Safeguard
+41 Ice Beam
+49 Hydro Pump
+57 Ice Shard
+
+Dewgong
+1 Fake Out
+1 Refresh
+1 Signal Beam
+9 Bubble Beam
+17 Icy Wind
+21 Aurora Beam
+29 Safeguard
+34 Body Slam
+42 Ice Beam
+49 Hydro Pump
+55 Drill Run
+67 Ice Shard
+
+Grimer
+1 Acid
+2 Memento
+4 Lick
+8 Disable
+13 Sludge Bomb
+19 Shadow Punch
+26 Toxic
+34 Shadow Ball
+43 Gunk Shot
+53 Fire Blast
+
+Muk
+1 Explosion
+1 Shadow Sneak
+1 Mean Look
+4 Brick Break
+8 Rock Slide
+13 Sludge Bomb
+19 Ice Punch
+26 Toxic
+34 Shadow Ball
+47 Gunk Shot
+54 Fire Blast
+
+Shellder
+1 Tackle
+1 Clamp
+9 Supersonic
+16 Aurora Beam
+18 Bubble Beam
+36 Self-Destruct
+45 Ice Beam
+49 Ice Shard
+
+Cloyster
+1 Hydro Pump
+12 Tri Attack
+25 Self-Destruct
+47 Ice Beam
+50 Ice Shard
+51 Hydro Pump
+
+Gastly
+1 Hypnosis
+1 Lick
+8 Uproar
+13 Mean Look
+16 Shadow Sneak
+21 Night Shade
+28 Confuse Ray
+33 Sludge Bomb
+36 Shadow Ball
+
+Haunter
+1 Hypnosis
+1 Lick
+1 Will-o-Wisp
+8 Explosion
+13 Mean Look
+16 Shadow Sneak
+21 Night Shade
+25 Shadow Punch
+31 Confuse Ray
+39 Sludge Bomb
+48 Shadow Ball
+
+Gengar
+1 Hypnosis
+1 Fire Punch
+1 Ice Punch
+8 Thunder Punch
+13 Mean Look
+16 Shadow Sneak
+21 Shadow Punch
+25 Night Shade
+31 Confuse Ray
+39 Sludge Bomb
+48 Shadow Ball
+
+Onix
+1 Tackle
+1 Magnitude
+9 Bind
+13 Rock Throw
+21 Dig
+25 Sand Tomb
+31 Self-Destruct
+33 Rock Slide
+37 Double-Edge
+45 Iron Tail
+49 Earthquake
+
+Steelix
+1 Sand Tomb
+1 Magnitude
+9 Bind
+13 Rock Tomb
+21 Dig
+36 Self-Destruct
+45 Crunch
+46 Double-Edge
+47 Rock Slide
+49 Iron Tail
+57 Earthquake
+
+Drowzee
+1 Confusion
+1 Hypnosis
+10 Seismic Toss
+18 Headbutt
+25 Signal Beam
+31 Psybeam
+36 Hypnosis
+40 Brick Break
+43 Shadow Ball
+45 Psychic
+
+Hypno
+1 Thunder Wave
+1 Fire Punch
+1 Thunder Punch
+1 Ice Punch
+10 Body Slam
+18 Seismic Toss
+25 Signal Beam
+33 Psybeam
+40 Hypnosis
+49 Brick Break
+55 Shadow Ball
+60 Psychic
+
+Krabby
+1 Bubble Beam
+5 Stomp
+12 Ice Beam
+16 Mud Shot
+25 Body Slam
+27 Crabhammer
+34 X-Scissors
+41 Superpower
+45 Ancient Power
+
+Kingler
+1 Ancient Power
+1 Endure
+1 Knock Off
+5 False Swipe
+12 Double-Edge
+16 Body Slam
+23 Mud Shot
+27 Crabhammer
+38 Crush Claw
+49 X-Scissors
+57 Superpower
+
+Voltorb
+1 Thunder Shock
+1 Secret Power
+8 Shock Wave
+15 Sonic Boom
+21 Wild Charge
+27 Self-Destruct
+32 Rollout
+37 Thunderbolt
+42 Signal Beam
+46 Explosion
+49 Thunder Wave
+
+Electrode
+1 Mirror Coat
+1 Tackle
+1 Secret Power
+1 Sonic Boom
+8 Shock Wave
+15 Sonic Boom
+21 Wild Charge
+27 Self-Destruct
+34 Rollout
+41 Thunderbolt
+48 Signal Beam
+54 Explosion
+59 Thunder Wave
+
+Exeggcute
+1 Confusion
+1 Mega Drain
+1 Hypnosis
+7 Poison Powder
+13 Psybeam
+19 Giga Drain
+25 Stun Spore
+31 Psychic
+37 Egg Bomb
+43 Sleep Powder
+
+Exeggutor
+1 Ancient Power
+3 Sleep Powder
+4 Explosion
+19 Stun Spore
+51 Egg Bomb
+
+Cubone
+1 Bone Club
+5 Rock Throw
+9 Secret Power
+13 Headbutt
+17 Dig
+21 Thrash
+25 Bonemerang
+29 Bone Rush
+33 Body Slam
+37 Rock Slide
+41 Earthquake
+45 Double-Edge
+
+Marowak
+1 False Swipe
+1 Rock Tomb
+1 Bone Club
+1 Headbutt
+5 Secret Power
+9 Bone Club
+13 Headbutt
+17 Dig
+21 Thrash
+25 Bonemerang
+32 Bone Rush
+39 Body Slam
+46 Rock Slide
+53 Earthquake
+61 Double-Edge
+
+Tyrogue
+1 Tackle
+
+Hitmonlee
+1 Revenge
+1 Double Kick
+6 Blaze Kick
+11 Rolling Kick
+16 Jump Kick
+20 Brick Break
+21 Secret Power
+26 Hi Jump Kick
+31 Mega Kick
+36 Body Slam
+41 Earthquake
+46 Rock Slide
+51 Hi Jump Kick
+
+Hitmonchan
+1 Thunder Punch
+1 Fire Punch
+7 Ice Punch
+13 Pursuit
+20 Mach Punch
+26 Foresight
+28 Body Slam
+30 Earthquake
+32 Sky Uppercut
+38 Shadow Punch
+44 Rock Slide
+50 Mach Punch
+
+Hitmontop
+1 Counter
+1 Rolling Kick
+7 Focus Energy
+13 Pursuit
+19 Quick Attack
+20 Rolling Kick
+25 Seismic Toss
+31 Revenge
+37 Rock Slide
+43 Detect
+49 Endeavor
+
+Lickitung
+1 Lick
+7 Supersonic
+12 Stomp
+18 Knock Off
+23 Disable
+29 Wrap
+34 Shadow Ball
+40 Body Slam
+45 Earthquake
+51 Refresh
+
+Koffing
+1 Psybeam
+1 Secret Power
+8 Smog
+16 Sludge Bomb
+21 Self-Destruct
+25 Smokescreen
+33 Shadow Ball
+41 Explosion
+45 Toxic
+49 Gunk Shot
+
+Weezing
+1 Pain Split
+1 Psybeam
+1 Psywave
+1 Self-Destruct
+9 Smog
+17 Self-Destruct
+21 Smokescreen
+25 Sludge Bomb
+33 Shadow Ball
+44 Explosion
+51 Toxic
+58 Gunk Shot
+
+Rhyhorn
+1 Stomp
+1 Magnitude
+10 Rock Throw
+15 Take Down
+24 Rock Blast
+29 Drill Run
+38 Body Slam
+43 Rock Slide
+52 Earthquake
+58 Megahorn
+
+Rhydon
+1 Earth Power
+1 Rock Tomb
+1 Stomp
+1 Take Down
+10 Magnitude
+15 Body Slam
+24 Rock Blast
+29 Drill Run
+38 Rock Slide
+46 Double-Edge
+58 Earthquake
+66 Megahorn
+
+Chansey
+1 Double-Edge
+1 Body Slam
+5 Endeavor
+9 Hyper Voice
+13 Recycle
+17 Double Slap
+23 Sing
+29 Sweet Kiss
+35 Teleport
+41 Seismic Toss
+49 Egg Bomb
+57 Refresh
+
+Blissey
+1 Counter
+1 Recycle
+2 Double-Edge
+2 Hyper Voice
+3 Sing
+3 Thunder Wave
+18 Helping Hand
+23 Sweet Kiss
+28 Egg Bomb
+33 Teleport
+40 Refresh
+47 Seismic Toss
+
+Tangela
+1 Ingrain
+1 Absorb
+4 Secret Power
+10 Poison Powder
+13 Vine Whip
+19 Bind
+22 Mega Drain
+28 Body Slam
+31 Stun Spore
+37 Giga Drain
+40 Ancient Power
+46 Sleep Powder
+
+Kangaskhan
+1 Stomp
+1 Fake Out
+7 Bite
+13 Mega Punch
+19 Rock Slide
+25 Body Slam
+31 Superpower
+37 Crush Claw
+43 Shadow Ball
+49 Fake Out
+
+Horsea
+1 Water Gun
+8 Swift
+15 Psybeam
+22 Twister
+29 Bubble Beam
+36 Double-Edge
+43 Hydro Pump
+50 Dragon Breath
+
+Seadra
+1 Psybeam
+1 Octazooka
+1 Tackle
+1 Water Gun
+8 Swift
+15 Water Gun
+22 Twister
+29 Bubble Beam
+40 Double-Edge
+51 Hydro Pump
+62 Dragon Breath
+
+Kingdra
+1 Bubble
+1 Octazooka
+1 Tackle
+1 Water Gun
+8 Swift
+15 Water Gun
+22 Twister
+29 Bubble Beam
+40 Double-Edge
+51 Hydro Pump
+62 Dragon Breath
+
+Goldeen
+1 Bubble Beam
+1 Psybeam
+1 Haze
+10 Supersonic
+15 Water Pulse
+24 Secret Power
+27 Ice Beam
+28 Double-Edge
+33 Waterfall
+36 Megahorn
+
+Seaking
+1 Peck
+1 Bubble Beam
+1 Haze
+1 Psybeam
+10 Supersonic
+15 Water Pulse
+27 Ice Beam
+28 Double-Edge
+29 Drill Run
+33 Waterfall
+38 Megahorn
+
+Staryu
+1 Swift
+1 Confusion
+6 Camouflage
+10 Bubble Beam
+15 Whirlpool
+19 Psybeam
+24 Recover
+28 Water Pulse
+33 Recycle
+37 Magic Coat
+42 Hydro Pump
+46 Refresh
+
+Starmie
+1 Psychic
+1 Recover
+1 Hydro Pump
+33 Confuse Ray
+70 Psychic
+
+Mr.Mime
+1 Seismic Toss
+5 Confusion
+9 Fire Punch
+13 Thunder Punch
+17 Ice Punch
+21 Light Screen
+21 Reflect
+25 Psybeam
+29 Recycle
+33 Role Play
+34 Signal Beam
+36 Psychic
+45 Teeter Dance
+49 Hypnosis
+60 Thunder Wave
+
+Scyther
+1 Quick Attack
+1 Wing Attack
+6 Focus Energy
+11 Pursuit
+16 False Swipe
+21 Slash
+26 Aerial Ace
+31 Double-Edge
+36 X-Scissors
+41 Air Slash
+46 Steel Wing
+
+Scizor
+1 Superpower
+1 Quick Attack
+4 Air Slash
+11 Focus Energy
+16 False Swipe
+21 Aerial Ace
+26 Metal Claw
+31 Slash
+36 Reversal
+41 Steel Wing
+46 X-Scissors
+
+Smoochum
+1 Pound
+1 Confusion
+9 Sweet Kiss
+13 Powder Snow
+21 Psybeam
+25 Aurora Beam
+33 Ice Punch
+37 Psychic
+45 Teleport
+49 Sing
+57 Ice Beam
+
+Jynx
+1 Seismic Toss
+1 Mean Look
+1 Confusion
+1 Hyper Voice
+8 Confusion
+9 Lovely Kiss
+13 Powder Snow
+25 Psybeam
+35 Ice Punch
+41 Teleport
+51 Psychic
+57 Lovely Kiss
+67 Ice Beam
+
+Elekid
+1 Quick Attack
+1 Shock Wave
+9 Swift
+17 Thunder Punch
+25 Thunder Wave
+33 Fire Punch
+41 Thunderbolt
+49 Cross Chop
+
+Electabuzz
+1 Quick Attack
+1 Ice Punch
+1 Thunder Punch
+9 Thunder Punch
+17 Thunder Wave
+25 Fire Punch
+36 Wild Charge
+47 Thunderbolt
+58 Cross Chop
+
+Magby
+1 Ember
+7 Karate Chop
+13 Smog
+19 Fire Punch
+25 Smokescreen
+31 Mach Punch
+37 Flamethrower
+43 Confuse Ray
+49 Fire Blast
+
+Magmar
+1 Cross Chop
+1 Thunder Punch
+1 Smog
+1 Fire Punch
+7 Leer
+13 Smog
+19 Fire Punch
+25 Smokescreen
+33 Brick Break
+41 Flamethrower
+49 Confuse Ray
+57 Fire Blast
+
+Pinsir
+1 Leech Life
+1 Focus Energy
+7 Bind
+13 Seismic Toss
+19 Revenge
+25 Quick Attack
+31 Brick Break
+36 X-Scissors
+43 Rock Slide
+49 Earthquake
+
+Tauros
+1 Quick Attack
+4 Horn Attack
+13 Stomp
+19 Thrash
+26 Pursuit
+34 Iron Tail
+43 Earth Power
+53 Double-Edge
+55 Body Slam
+
+Magikarp
+1 Flail
+15 Tackle
+30 Bounce
+
+Gyarados
+1 Bubble Beam
+20 Bite
+34 Dragon Rage
+35 Crunch
+36 Waterfall
+40 Double-Edge
+45 Body Slam
+50 Hydro Pump
+55 Bounce
+
+Lapras
+1 Ancient Power
+1 Drill Run
+1 Sing
+7 Safeguard
+13 Body Slam
+19 Confuse Ray
+25 Refresh
+31 Signal Beam
+37 Hydro Pump
+43 Roar
+49 Double-Edge
+55 Ice Beam
+
+Ditto
+1 Transform
+
+Eevee
+1 Tackle
+1 Sand-Attack
+1 Helping Hand
+8 Secret Power
+16 Take Down
+23 Quick Attack
+30 Bite
+36 Body Slam
+42 Double-Edge
+
+Vaporeon
+1 Muddy Water
+1 Double-Edge
+1 Helping Hand
+8 Sand-Attack
+16 Water Gun
+23 Quick Attack
+30 Bite
+36 Bubble Beam
+42 Aurora Beam
+47 Body Slam
+52 Hydro Pump
+
+Jolteon
+1 Signal Beam
+1 Quick Attack
+1 Helping Hand
+8 Sand-Attack
+16 Thunder Shock
+23 Shock Wave
+30 Double Kick
+36 Wild Charge
+42 Thunder Wave
+47 Pin Missile
+52 Bite
+
+Flareon
+1 Heat Wave
+1 Ember
+1 Helping Hand
+8 Sand-Attack
+16 Flame Wheel
+23 Quick Attack
+30 Bite
+36 Flamethrower
+42 Double-Edge
+47 Overheat
+52 Superpower
+
+Espeon
+1 Tackle
+1 Sand-Attack
+1 Helping Hand
+8 Mud-Slap
+16 Confusion
+23 Quick Attack
+30 Swift
+36 Psybeam
+42 Signal Beam
+47 Psychic
+52 Morning Sun
+
+Umbreon
+1 Wish
+2 Tackle
+2 Mean Look
+2 Helping Hand
+5 Sand-Attack
+16 Pursuit
+23 Quick Attack
+30 Faint Attack
+36 Body Slam
+42 Confuse Ray
+47 Bite
+
+Porygon
+1 Conversion 2
+1 Tackle
+1 Teleport
+9 Conversion
+12 Psybeam
+20 Recover
+27 Take Down
+32 Teleport
+36 Tri Attack
+44 Recycle
+48 Thunder Wave
+
+Porygon2
+1 Thunder Wave
+1 Recycle
+12 Psybeam
+20 Recover
+24 Psychic
+32 Teleport
+36 Double-Edge
+44 Conversion
+48 Conversion 2
+49 Tri Attack
+50 Psychic
+
+Omanyte
+1 Bubble Beam
+1 Rock Tomb
+15 Aurora Beam
+15 Mud Shot
+20 Water Pulse
+22 Bite
+26 Rock Slide
+37 Ice Beam
+42 Ancient Power
+49 Hydro Pump
+
+Omastar
+1 Spikes
+1 Hydro Pump
+1 Earth Power
+13 Rock Tomb
+19 Aurora Beam
+25 Mud Shot
+31 Bite
+37 Water Pulse
+40 Seismic Toss
+46 Ice Beam
+47 Ancient Power
+55 Muddy Water
+
+Kabuto
+1 Rock Tomb
+1 Water Pulse
+13 Mega Drain
+19 Mud Shot
+25 Rock Slide
+31 Ice Beam
+37 X-Scissors
+43 Earth Power
+49 Hydro Pump
+55 Ancient Power
+
+Kabutops
+1 Sand-Attack
+1 Hydro Pump
+1 Rock Tomb
+13 Water Pulse
+19 Mega Drain
+25 Mud Shot
+31 Rock Slide
+37 Ice Beam
+40 X-Scissors
+46 Earth Power
+55 Muddy Water
+65 Ancient Power
+
+Aerodactyl
+1 Wing Attack
+8 Rock Tomb
+15 Supersonic
+22 Double-Edge
+29 Rock Slide
+36 Air Slash
+43 Earth Power
+50 Ancient Power
+
+Snorlax
+1 Tackle
+6 Facade
+10 Slack Off
+15 Sleep Talk
+19 Headbutt
+24 Facade
+28 Rest
+28 Snore
+33 Body Slam
+37 Yawn
+42 Double-Edge
+46 Sleep Talk
+51 Whirlwind
+
+Articuno
+1 Ice Shard
+1 Extrasensory
+13 Steel Wing
+25 Aerial Ace
+37 Double-Edge
+49 Ice Beam
+61 Water Pulse
+73 Blizzard
+85 Sky Attack
+
+Zapdos
+1 Thunder Wave
+1 Heat Wave
+13 Steel Wing
+25 Extrasensory
+37 Detect
+49 Drill Peck
+61 Thunderbolt
+73 Double-Edge
+85 Sky Attack
+
+Moltres
+1 Aerial Ace
+1 Overheat
+13 Extrasensory
+25 Steel Wing
+37 Double-Edge
+49 Flamethrower
+61 Safeguard
+73 Heat Wave
+85 Sky Attack
+
+Dratini
+1 Wrap
+1 Take Down
+8 Thunder Wave
+15 Twister
+22 Dragon Rage
+29 Slam
+36 Dragon Breath
+43 Hydro Pump
+50 Double-Edge
+57 Whirlwind
+
+Dragonair
+1 Extreme Speed
+1 Fly
+1 Thunder Wave
+1 Twister
+8 Thunder Wave
+15 Twister
+22 Dragon Rage
+29 Slam
+38 Dragon Breath
+47 Whirlwind
+56 Hydro Pump
+65 Double-Edge
+
+Dragonite
+1 Wrap
+1 Steel Wing
+1 Rock Slide
+1 Twister
+8 Thunder Wave
+15 Dragon Breath
+22 Dragon Rage
+29 Slam
+38 Hydro Pump
+47 Roar
+55 Wing Attack
+61 Double-Edge
+75 Dragon Claw
+
+Mewtwo
+1 Psycho Boost
+1 Shadow Ball
+11 Seismic Toss
+22 Swift
+33 Signal Beam
+44 Brick Break
+55 Psywave
+66 Psychic
+77 Self-Destruct
+88 Recover
+99 Teleport
+
+Mew
+1 Hypnosis
+10 Transform
+20 Teleport
+30 Recover
+40 Psychic
+50 Ancient Power
+
+Chikorita
+1 Tackle
+1 Poison Powder
+8 Razor Leaf
+12 Secret Power
+15 Safeguard
+22 Magical Leaf
+29 Body Slam
+36 Sludge Bomb
+43 Double-Edge
+50 Petal Dance
+
+Bayleef
+1 Tackle
+1 Razor Leaf
+1 Poison Powder
+8 Razor Leaf
+12 Secret Power
+15 Safeguard
+23 Magical Leaf
+31 Body Slam
+39 Sludge Bomb
+47 Double-Edge
+55 Petal Dance
+
+Meganium
+1 Tackle
+1 Rock Slide
+1 Razor Leaf
+1 Poison Powder
+8 Razor Leaf
+12 Secret Power
+15 Safeguard
+23 Magical Leaf
+31 Body Slam
+41 Sludge Bomb
+51 Double-Edge
+61 Petal Dance
+
+Cyndaquil
+1 Tackle
+1 Ember
+6 Swift
+12 Flame Wheel
+21 Quick Attack
+27 Smokescreen
+36 Double-Edge
+46 Flamethrower
+
+Quilava
+1 Tackle
+1 Wild Charge
+1 Ember
+6 Swift
+12 Flame Wheel
+21 Quick Attack
+31 Smokescreen
+42 Double-Edge
+54 Flamethrower
+
+Typhlosion
+1 Tackle
+1 Smokescreen
+1 Ember
+6 Smokescreen
+12 Flame Wheel
+21 Quick Attack
+36 Fire Punch
+40 Thunder Punch
+45 Double-Edge
+60 Flamethrower
+
+Totodile
+1 Scratch
+1 Water Gun
+7 Bite
+13 Slash
+20 Crunch
+27 Ice Punch
+35 Ancient Power
+43 Superpower
+52 Hydro Pump
+
+Croconaw
+1 Aerial Ace
+2 Scratch
+3 Water Gun
+4 Bite
+13 Slash
+27 Crunch
+30 Ice Punch
+40 Ancient Power
+45 Superpower
+55 Hydro Pump
+
+Feraligatr
+1 Aerial Ace
+1 Ancient Power
+1 Scratch
+1 Water Gun
+7 Bite
+13 Slash
+27 Crunch
+30 Ice Punch
+46 Rock Slide
+50 Superpower
+58 Hydro Pump
+
+Sentret
+1 Quick Attack
+4 Secret Power
+5 Follow Me
+7 Knock Off
+12 Helping Hand
+16 Body Slam
+20 Shadow Ball
+25 Super Fang
+28 Hyper Voice
+
+Furret
+1 Thunder Wave
+1 Double-Edge
+1 Quick Attack
+4 Knock Off
+7 Follow Me
+12 Helping Hand
+19 Body Slam
+28 Shadow Ball
+36 Hyper Voice
+48 Super Fang
+59 Quick Attack
+
+Hoothoot
+1 Tackle
+1 Peck
+6 Confusion
+11 Aerial Ace
+16 Hypnosis
+20 Night Shade
+28 Extrasensory
+34 Double-Edge
+48 Sky Attack
+
+Noctowl
+1 Dream Eater
+1 Air Slash
+1 Magic Coat
+1 Recycle
+6 Night Shade
+11 Whirlwind
+16 Hypnosis
+25 Faint Attack
+33 Extrasensory
+41 Double-Edge
+57 Sky Attack
+
+Ledyba
+1 Silver Wind
+8 Aerial Ace
+10 Supersonic
+16 Knock Off
+22 Light Screen
+22 Reflect
+22 Safeguard
+23 Air Slash
+25 Signal Beam
+29 Encore
+
+Ledian
+1 Knock Off
+23 Giga Drain
+23 Ice Punch
+23 Thunder Punch
+24 Light Screen
+24 Reflect
+24 Safeguard
+25 Brick Break
+26 Air Slash
+27 Signal Beam
+36 Encore
+
+Spinarak
+1 Toxic
+1 Leech Life
+6 Mega Drain
+11 Pursuit
+16 Sludge Bomb
+19 Psychic
+22 Signal Beam
+37 Spider Web
+45 Agility
+46 Poison Fang
+
+Ariados
+1 Sludge Bomb
+1 Giga Drain
+1 Scary Face
+1 Pursuit
+6 Toxic
+11 Psychic
+17 Signal Beam
+25 Night Shade
+34 Spider Web
+43 Poison Fang
+53 Agility
+63 Signal Beam
+
+Chinchou
+1 Water Gun
+1 Thunder Shock
+5 Flail
+13 Shock Wave
+17 Bubble Beam
+24 Aurora Beam
+25 Confuse Ray
+27 Wild Charge
+37 Thunder Wave
+41 Hydro Pump
+
+Lanturn
+1 Whirlpool
+1 Signal Beam
+1 Icy Wind
+5 Flail
+13 Bounce
+17 Water Pulse
+25 Wild Charge
+32 Confuse Ray
+43 Thunder Wave
+50 Hydro Pump
+61 Thunderbolt
+
+Togepi
+1 Double-Edge
+1 Charm
+6 Soft-Boiled
+11 Sweet Kiss
+16 Yawn
+21 Encore
+26 Follow Me
+31 Wish
+36 Safeguard
+41 Body Slam
+
+Togetic
+1 Double-Edge
+1 Charm
+6 Thunder Wave
+11 Sweet Kiss
+16 Yawn
+21 Encore
+26 Follow Me
+31 Wish
+36 Safeguard
+41 Extreme Speed
+
+Natu
+1 Peck
+1 Psybeam
+10 Night Shade
+20 Aerial Ace
+25 Psychic
+30 Confuse Ray
+30 Wish
+31 Drill Peck
+
+Xatu
+1 Signal Beam
+1 Extrasensory
+10 Night Shade
+20 Aerial Ace
+25 Psychic
+34 Confuse Ray
+35 Wish
+36 Drill Peck
+
+Mareep
+1 Tackle
+1 Thunder Shock
+9 Headbutt
+16 Thunder Wave
+23 Shock Wave
+30 Thunderbolt
+37 Body Slam
+
+Flaaffy
+1 Tackle
+1 Secret Power
+1 Thunder Shock
+9 Headbutt
+18 Thunder Wave
+27 Shock Wave
+36 Thunderbolt
+45 Body Slam
+
+Ampharos
+1 Counter
+1 Signal Beam
+1 Fire Punch
+1 Thunder Wave
+9 Thunder Shock
+18 Shock Wave
+27 Thunder Wave
+30 Thunder Punch
+42 Thunderbolt
+57 Body Slam
+
+Azurill
+1 Water Gun
+3 Charm
+6 Secret Power
+10 Bubble Beam
+15 Body Slam
+21 Bounce
+
+Marill
+1 Pound
+3 Bubble Beam
+6 Ice Punch
+10 Water Pulse
+15 Body Slam
+21 Waterfall
+28 Double-Edge
+36 Ice Beam
+45 Hydro Pump
+
+Azumarill
+1 Brick Break
+1 Bounce
+1 Pound
+1 Bubble Beam
+3 Ice Punch
+6 Water Pulse
+10 Body Slam
+21 Waterfall
+24 Ice Beam
+34 Double-Edge
+45 Superpower
+57 Hydro Pump
+
+Sudowoodo
+1 Rock Throw
+1 Body Slam
+9 Rock Tomb
+17 Earth Power
+25 Rock Slide
+33 Earthquake
+41 Double-Edge
+49 Explosion
+57 Head Smash
+
+Hoppip
+1 Confusion
+5 Poison Powder
+5 Mega Drain
+10 Gust
+13 Secret Power
+15 Stun Spore
+16 Aerial Ace
+20 Giga Drain
+25 Synthesis
+30 Sleep Powder
+
+Skiploom
+1 Silver Wind
+1 Memento
+1 False Swipe
+1 Headbutt
+5 Confusion
+5 Secret Power
+10 Gust
+13 Poison Powder
+15 Aerial Ace
+17 Stun Spore
+22 Giga Drain
+29 Synthesis
+36 Sleep Powder
+
+Jumpluff
+1 Bounce
+1 Aromatherapy
+1 Memento
+1 Toxic
+5 Aerial Ace
+5 Helping Hand
+10 Silver Wind
+13 Headbutt
+15 Double-Edge
+17 Stun Spore
+22 Giga Drain
+33 Synthesis
+44 Sleep Powder
+
+Aipom
+1 Fake Out
+1 Sand-Attack
+4 Brick Break
+5 Aerial Ace
+16 Body Slam
+18 Knock Off
+20 Thunder Wave
+25 Shadow Ball
+25 Tickle
+27 Double-Edge
+
+Sunkern
+1 Absorb
+6 Growth
+13 Mega Drain
+18 Ingrain
+25 Endeavor
+30 Giga Drain
+37 Synthesis
+42 Double-Edge
+
+Sunflora
+1 Double-Edge
+1 Grass Whistle
+6 Growth
+10 Razor Leaf
+16 Synthesis
+20 Sludge Bomb
+25 Giga Drain
+37 Petal Dance
+42 Aromatherapy
+
+Yanma
+1 Silver Wind
+1 Foresight
+7 Quick Attack
+13 Sonic Boom
+19 Sweet Kiss
+25 Detect
+31 Signal Beam
+37 Giga Drain
+43 Air Slash
+49 Hypnosis
+
+Wooper
+1 Water Gun
+1 Mud-Slap
+11 Slam
+16 Mud Shot
+21 Icy Wind
+31 Yawn
+36 Dig
+41 Earthquake
+46 Body Slam
+51 Muddy Water
+
+Quagsire
+1 Refresh
+1 Recover
+1 Ancient Power
+16 Mud Shot
+23 Bubble Beam
+35 Yawn
+42 Earthquake
+49 Muddy Water
+57 Body Slam
+61 Sludge Bomb
+
+Murkrow
+1 Pursuit
+9 Peck
+15 Faint Attack
+20 Drill Peck
+25 Haze
+30 Thunder Wave
+48 Sky Attack
+49 Faint Attack
+
+Misdreavus
+1 Psybeam
+1 Psywave
+6 Memento
+11 Shadow Sneak
+17 Confuse Ray
+23 Mean Look
+30 Hyper Voice
+37 Pain Split
+45 Shadow Ball
+53 Night Shade
+
+Unown
+1 Hidden Power
+
+Wynaut
+1 Destiny Bond
+1 Safeguard
+1 Encore
+15 Counter
+15 Mirror Coat
+20 Destiny Bond
+25 Safeguard
+
+Wobbuffet
+1 Counter
+1 Mirror Coat
+1 Safeguard
+1 Destiny Bond
+
+Girafarig
+1 Confusion
+2 Stomp
+7 Bite
+16 Psybeam
+17 Odor Sleuth
+25 Body Slam
+31 Crunch
+36 Psychic
+43 Earthquake
+49 Hyper Voice
+
+Pineco
+1 Tackle
+1 Pin Missile
+8 Self-Destruct
+12 Secret Power
+15 Take Down
+22 Drill Run
+29 Signal Beam
+36 Explosion
+43 Spikes
+
+Forretress
+1 Rapid Spin
+1 Spikes
+1 Giga Drain
+8 Self-Destruct
+12 Secret Power
+15 Take Down
+22 Drill Run
+29 Signal Beam
+34 Flash Cannon
+39 Explosion
+
+Dunsparce
+1 Tackle
+4 Pursuit
+11 Yawn
+14 Glare
+21 Double-Edge
+24 Endeavor
+31 Bite
+34 Rock Slide
+41 Headbutt
+
+Gligar
+1 Faint Attack
+6 Sand-Attack
+13 Dig
+20 Quick Attack
+28 Aerial Ace
+36 Earthquake
+44 X-Scissors
+52 Rock Slide
+
+Snubbull
+1 Tackle
+1 Bite
+4 Lick
+8 Roar
+13 Headbutt
+19 Crunch
+26 Body Slam
+34 Superpower
+43 Shadow Ball
+53 Double-Edge
+
+Granbull
+1 Super Fang
+1 Heal Bell
+4 Thunder Wave
+8 Roar
+13 Headbutt
+19 Crunch
+28 Body Slam
+38 Superpower
+49 Shadow Ball
+61 Double-Edge
+
+Qwilfish
+1 Spikes
+1 Pin Missile
+1 Headbutt
+10 Bubble Beam
+10 Sludge Bomb
+19 Hydro Pump
+28 Toxic
+37 Gunk Shot
+46 Explosion
+
+Shuckle
+1 Mud-Slap
+10 Bide
+50 Knock Off
+60 Wrap
+65 Safeguard
+70 Encore
+75 Ancient Power
+
+Heracross
+1 Tackle
+1 Counter
+6 Horn Attack
+11 Facade
+17 Body Slam
+23 Rock Slide
+30 X-Scissors
+37 Double-Edge
+45 Brick Break
+69 Megahorn
+
+Sneasel
+1 Bite
+1 Ice Shard
+1 Ice Punch
+8 Quick Attack
+15 Faint Attack
+22 Body Slam
+27 Ice Beam
+29 Knock Off
+30 X-Scissors
+35 Brick Break
+36 Fake Out
+40 Shadow Ball
+
+Teddiursa
+1 Scratch
+1 Lick
+7 Faint Attack
+13 Refresh
+16 Swift
+25 Slash
+30 Brick Break
+37 Crunch
+43 Cross Chop
+49 Facade
+
+Ursaring
+1 Seismic Toss
+1 Crush Claw
+1 Facade
+1 Gunk Shot
+7 Rock Slide
+13 Superpower
+19 Cross Chop
+25 Refresh
+31 Brick Break
+37 Crunch
+43 Facade
+49 Double-Edge
+
+Slugma
+1 Yawn
+1 Flame Wheel
+8 Rock Tomb
+15 Recover
+16 Will-o-Wisp
+29 Ancient Power
+36 Heat Wave
+43 Earthquake
+50 Explosion
+
+Magcargo
+1 Yawn
+1 Fire Blast
+1 Rock Tomb
+1 Recover
+8 Will-o-Wisp
+16 Rock Slide
+22 Body Slam
+29 Ancient Power
+36 Heat Wave
+48 Earthquake
+60 Explosion
+
+Swinub
+1 Odor Sleuth
+5 Mud Shot
+8 Powder Snow
+20 Earth Power
+25 Ice Beam
+30 Body Slam
+35 Ancient Power
+40 Earthquake
+
+Piloswine
+1 Ice Shard
+1 Odor Sleuth
+1 Superpower
+1 Mud Shot
+10 Powder Snow
+19 Rock Slide
+28 Earth Power
+36 Body Slam
+42 Ice Beam
+56 Ancient Power
+70 Earthquake
+
+Corsola
+1 Rock Tomb
+6 Bubble Beam
+12 Aurora Beam
+17 Recover
+17 Refresh
+23 Rock Slide
+28 Surf
+34 Ice Beam
+39 Mirror Coat
+45 Ancient Power
+
+Remoraid
+1 Psybeam
+7 Bubble Beam
+13 Aurora Beam
+16 Mud Shot
+22 Octazooka
+25 Ice Beam
+27 Flamethrower
+31 Signal Beam
+
+Octillery
+1 Thunder Wave
+11 Gunk Shot
+22 Rock Blast
+22 Mud Shot
+25 Octazooka
+30 Ice Beam
+33 Flamethrower
+36 Signal Beam
+70 Water Spout
+
+Delibird
+1 Ice Beam
+
+Mantine
+1 Wing Attack
+1 Bubble Beam
+8 Aurora Beam
+15 Double-Edge
+22 Water Pulse
+29 Air Slash
+36 Surf
+43 Ice Beam
+50 Confuse Ray
+
+Skarmory
+1 Whirlwind
+1 Peck
+10 Sand-Attack
+13 Metal Claw
+16 Aerial Ace
+26 Steel Wing
+29 Air Slash
+32 X-Scissors
+42 Rock Slide
+45 Flash Cannon
+
+Houndour
+1 Pursuit
+1 Ember
+7 Faint Attack
+13 Flame Wheel
+19 Odor Sleuth
+25 Bite
+31 Body Slam
+37 Roar
+43 Flamethrower
+49 Crunch
+
+Houndoom
+1 Tackle
+1 Ember
+1 Pursuit
+7 Faint Attack
+13 Flame Wheel
+19 Odor Sleuth
+27 Bite
+35 Body Slam
+43 Roar
+51 Flamethrower
+59 Crunch
+
+Phanpy
+1 Tackle
+6 Mud Shot
+10 Ice Shard
+15 Rock Throw
+19 Endeavor
+22 Body Slam
+33 Rock Slide
+41 Double-Edge
+49 Earthquake
+
+Donphan
+1 Superpower
+1 Ancient Power
+1 Gunk Shot
+9 Mud Shot
+17 Flail
+25 Body Slam
+33 Rock Slide
+41 Head Smash
+49 Earthquake
+
+Stantler
+1 Sand-Attack
+5 Headbutt
+13 Disable
+19 Confuse Ray
+25 Jump Kick
+31 Megahorn
+37 Thunder Wave
+43 Hypnosis
+49 Double-Edge
+
+Smeargle
+1 Sketch
+11 Sketch
+21 Sketch
+31 Sketch
+41 Sketch
+51 Sketch
+61 Sketch
+71 Sketch
+81 Sketch
+91 Sketch
+
+Miltank
+1 Tackle
+4 Heal Bell
+8 Block
+13 Stomp
+19 Milk Drink
+26 Rock Slide
+34 Double-Edge
+43 Body Slam
+53 Seismic Toss
+
+Raikou
+1 Bite
+1 Weather Ball
+11 Extreme Speed
+21 Thunder Wave
+31 Extrasensory
+41 Signal Beam
+51 Wild Charge
+61 Crunch
+71 Thunderbolt
+81 Roar
+
+Entei
+1 Bite
+1 Swagger
+11 Extreme Speed
+21 Will-o-Wisp
+31 Fire Spin
+41 Heat Wave
+51 Extrasensory
+61 Crush Claw
+71 Roar
+81 Sacred Fire
+
+Suicune
+1 Mirror Coat
+1 Extreme Speed
+11 Bubble Beam
+21 Signal Beam
+31 Extrasensory
+41 Icy Wind
+51 Roar
+61 Bite
+71 Hydro Pump
+81 Ice Beam
+
+Larvitar
+1 Bite
+1 Magnitude
+8 Rock Throw
+15 Mud-Slap
+22 Rock Tomb
+29 Dig
+36 Rock Slide
+43 Crunch
+50 Earthquake
+57 Roar
+
+Pupitar
+1 Bite
+1 Ancient Power
+1 Thrash
+1 Superpower
+8 Rock Throw
+15 Magnitude
+22 Rock Tomb
+29 Dig
+43 Crunch
+47 Rock Slide
+56 Earthquake
+65 Roar
+
+Tyranitar
+1 Bite
+1 Pursuit
+1 Rock Tomb
+1 Magnitude
+8 Sand Tomb
+15 Rock Throw
+25 Rock Tomb
+29 Thrash
+43 Crunch
+47 Rock Slide
+61 Earthquake
+75 Roar
+
+Lugia
+1 Roar
+11 Safeguard
+22 Ancient Power
+33 Teleport
+44 Hydro Pump
+55 Psychic
+66 Whirlwind
+68 Recover
+69 Aeroblast
+70 Psycho Boost
+
+Ho-Oh
+1 Roar
+11 Sacred Fire
+22 Thunder Wave
+25 Whirlwind
+44 Weather Ball
+60 Signal Beam
+66 Recover
+67 Ancient Power
+68 Sky Attack
+70 Overheat
+
+Celebi
+1 Nature Power
+1 Signal Beam
+1 Recycle
+1 Heal Bell
+10 Ancient Power
+20 Recover
+30 Teleport
+40 Psychic
+50 Giga Drain
+
+Treecko
+1 Quick Attack
+6 Absorb
+7 Pound
+11 Pursuit
+16 Double Kick
+21 Endeavor
+26 Mega Drain
+31 Quick Attack
+36 Crunch
+41 Thunder Punch
+46 Giga Drain
+
+Grovyle
+1 Pound
+1 Headbutt
+1 Absorb
+1 Quick Attack
+6 Absorb
+11 Quick Attack
+16 Vine Whip
+17 Pursuit
+23 Endeavor
+29 Magical Leaf
+35 Crush Claw
+41 Crunch
+47 Dragon Claw
+53 Leaf Blade
+
+Sceptile
+1 Frenzy Plant
+1 Rock Slide
+1 Absorb
+1 Quick Attack
+6 Absorb
+11 Quick Attack
+16 X-Scissors
+17 Pursuit
+23 Endeavor
+29 Magical Leaf
+36 Crush Claw
+43 Crunch
+51 Dragon Claw
+59 Leaf Blade
+
+Torchic
+1 Scratch
+6 Peck
+7 Ember
+10 Seismic Toss
+16 Fire Spin
+19 Sand-Attack
+25 Bounce
+28 Quick Attack
+34 Rock Slide
+37 Crush Claw
+43 Flamethrower
+
+Combusken
+1 Rock Slide
+1 Fire Spin
+1 Helping Hand
+1 Counter
+7 Smelling Salts
+13 Ember
+16 Double Kick
+17 Flame wheel
+21 Sand-Attack
+28 Aerial Ace
+32 Quick Attack
+39 Crush Claw
+43 Flamethrower
+50 Sky Uppercut
+
+Blaziken
+1 Thunder Punch
+1 Rock Slide
+1 Brick Break
+1 Aerial Ace
+1 Fire Punch
+1 Blast Burn
+7 Crush Claw
+13 Counter
+16 Hi Jump Kick
+17 Heat Wave
+21 Superpower
+28 Seismic Toss
+32 Quick Attack
+36 Blaze Kick
+49 Crush Claw
+59 Sky Uppercut
+
+Mudkip
+1 Tackle
+6 Bubble
+7 Mud Sport
+15 Bide
+19 Foresight
+24 Bubble Beam
+28 Take Down
+33 Whirlpool
+37 Mud Shot
+42 Hydro Pump
+46 Endeavor
+
+Marshtomp
+1 Mirror Coat
+1 Counter
+1 Sludge Bomb
+1 Ancient Power
+6 Mud-Slap
+10 Water Gun
+15 Bide
+16 Mud Shot
+20 Foresight
+25 Bubble Beam
+31 Rock Slide
+37 Muddy Water
+42 Ice Punch
+46 Earthquake
+53 Endeavor
+
+Swampert
+1 Hydro Cannon
+1 Hydro Pump
+1 Sludge Bomb
+1 Ancient Power
+6 Mud-Slap
+10 Water Gun
+15 Bide
+16 Mud Shot
+20 Foresight
+25 Bubble Beam
+31 Rock Slide
+39 Muddy Water
+46 Ice Punch
+52 Earthquake
+61 Endeavor
+
+Poochyena
+1 Tackle
+4 Sand-Attack
+5 Bite
+10 Secret Power
+15 Odor Sleuth
+21 Roar
+25 Crunch
+29 Iron Tail
+33 Hyper Voice
+37 Poison Fang
+41 Shadow Ball
+45 Super Fang
+
+Mightyena
+1 Body Slam
+1 Sand-Attack
+1 Bite
+5 Odor Sleuth
+9 Sand-Attack
+14 Bite
+20 Heal Bell
+22 Roar
+24 Yawn
+27 Crunch
+32 Iron Tail
+36 Poison Fang
+42 Hyper Voice
+47 Super Fang
+52 Shadow Ball
+
+Zigzagoon
+1 Swift
+1 Sand-Attack
+1 Headbutt
+5 Snore
+9 Headbutt
+13 Secret Power
+17 Odor Sleuth
+21 Dig
+25 Body Slam
+29 Shadow Ball
+33 Double-Edge
+37 Super Fang
+41 Extreme Speed
+
+Linoone
+1 Facade
+1 Slash
+1 Sand-Attack
+1 Headbutt
+5 Snore
+9 Headbutt
+13 Secret Power
+17 Odor Sleuth
+29 Dig
+35 Body Slam
+41 Shadow Ball
+47 Double-Edge
+60 Super Fang
+73 Extreme Speed
+
+Wurmple
+1 Tackle
+1 String Shot
+5 Poison Sting
+
+Silcoon
+1 Poison Sting
+7 Harden
+
+Beautifly
+1 Whirlwind
+10 Mega Drain
+10 Aerial Ace
+16 Silver Wind
+20 Morning Sun
+21 Shadow Ball
+22 Stun Spore
+24 Psychic
+26 Signal Beam
+28 Giga Drain
+
+Cascoon
+1 Poison Sting
+7 Harden
+
+Dustox
+1 Whirlwind
+10 Psybeam
+16 Silver Wind
+18 Toxic
+20 Moonlight
+22 Psychic
+24 Sludge Bomb
+26 Signal Beam
+28 Shadow Ball
+29 Light Screen
+
+Lotad
+1 Absorb
+3 Water Gun
+7 Nature Power
+13 Bullet Seed
+21 Bubble Beam
+31 Hydro Pump
+43 Magical Leaf
+
+Lombre
+1 Absorb
+3 Water Gun
+7 Bullet Seed
+13 Nature Power
+19 Fake Out
+25 Bubble Beam
+31 Magical Leaf
+37 Thief
+43 Uproar
+49 Hydro Pump
+
+Ludicolo
+1 Ice Punch
+1 Bubble Beam
+1 Magical Leaf
+1 Nature Power
+
+Seedot
+1 Mega Drain
+3 Bide
+7 Bullet Seed
+13 Nature Power
+21 Synthesis
+31 Giga Drain
+43 Explosion
+
+Nuzleaf
+1 Pound
+3 Bullet Seed
+7 Mega Drain
+13 Nature Power
+19 Faint Attack
+25 Giga Drain
+31 Fake Out
+37 Extrasensory
+43 Swagger
+49 Explosion
+
+Shiftry
+1 Extrasensory
+1 Explosion
+1 Faint Attack
+1 Giga Drain
+
+Taillow
+1 Peck
+1 Refresh
+4 Swift
+8 Quick Attack
+13 Wing Attack
+19 Facade
+26 Endeavor
+34 Aerial Ace
+43 Air Slash
+
+Swellow
+1 Steel Wing
+1 Heat Wave
+1 Mud-Slap
+1 Endure
+4 Double-Edge
+8 Quick Attack
+13 Wing Attack
+19 Facade
+28 Endeavor
+38 Aerial Ace
+49 Air Slash
+
+Wingull
+1 Wing Attack
+1 Water Gun
+7 Quick Attack
+13 Bubble Beam
+21 Supersonic
+23 Air Slash
+43 Water Pulse
+45 Ice Beam
+
+Pelipper
+1 Agility
+1 Icy Wind
+1 Gunk Shot
+1 Knock Off
+3 Bubble Beam
+7 Supersonic
+13 Wing Attack
+21 Quick Attack
+24 Air Slash
+33 Water Pulse
+35 Hydro Pump
+37 Ice Beam
+45 Sky Attack
+
+Ralts
+1 Confusion
+8 Teleport
+11 Secret Power
+16 Magical Leaf
+21 Psybeam
+26 Psychic
+31 Imprison
+36 Signal Beam
+41 Hypnosis
+46 Teleport
+
+Kirlia
+1 Secret Power
+1 Confusion
+1 Magical Leaf
+1 Teleport
+6 Magic Coat
+11 Shadow Sneak
+16 Signal Beam
+21 Psybeam
+26 Imprison
+33 Psychic
+40 Memento
+47 Teleport
+54 Hypnosis
+
+Gardevoir
+1 Ice Punch
+1 Fire Punch
+1 Thunder Punch
+1 Will-o-Wisp
+6 Thunder Wave
+11 Wish
+16 Recycle
+21 Magical Leaf
+26 Imprison
+33 Teleport
+42 Psychic
+51 Memento
+60 Hypnosis
+
+Surskit
+1 Water Pulse
+7 Quick Attack
+13 Mud Shot
+19 Aurora Beam
+21 Giga Drain
+31 Signal Beam
+37 Sweet Scent
+37 Haze
+
+Masquerain
+1 Bubble Beam
+1 Quick Attack
+1 Sweet Scent
+1 Water Pulse
+7 Quick Attack
+13 Mud Shot
+19 Giga Drain
+26 Silver Wind
+33 Ice Beam
+40 Stun Spore
+42 Signal Beam
+47 Hydro Pump
+
+Shroomish
+1 Mega Drain
+4 Mud-Slap
+7 Poison Powder
+10 Refresh
+16 Synthesis
+22 Sludge Bomb
+28 Stun Spore
+36 Body Slam
+45 Giga Drain
+54 Spore
+
+Breloom
+1 Superpower
+1 Dynamic Punch
+1 Mind Reader
+1 Counter
+4 Rock Slide
+7 Refresh
+10 Synthesis
+16 Mega Drain
+22 Stun Spore
+23 Mach Punch
+28 Giga Drain
+36 Sky Uppercut
+45 Thunder Punch
+54 Brick Break
+
+Slakoth
+1 Scratch
+1 Yawn
+7 Encore
+13 Slack Off
+19 Faint Attack
+25 Body Slam
+31 Double-Edge
+37 Crush Claw
+43 Slack Off
+
+Vigoroth
+1 Scratch
+1 Encore
+1 Uproar
+7 Encore
+13 Uproar
+19 Uproar
+25 Brick Break
+31 Slash
+37 Counter
+43 Body Slam
+49 Crush Claw
+54 Double-Edge
+
+Slaking
+1 Scratch
+1 Counter
+1 Yawn
+1 Pursuit
+7 Encore
+13 Slack Off
+19 Faint Attack
+25 Body Slam
+40 Superpower
+54 Crush Claw
+60 Double-Edge
+70 Slack Off
+
+Nincada
+1 Gust
+1 False Swipe
+5 Leech Life
+9 Mud-Slap
+14 Metal Claw
+19 Giga Drain
+25 Aerial Ace
+31 Dig
+38 Shadow Ball
+45 X-Scissors
+
+Ninjask
+1 Swift
+1 False Swipe
+1 Gust
+1 Sand-Attack
+5 Leech Life
+9 Mud-Slap
+14 Aerial Ace
+19 Metal Claw
+20 Silver Wind
+20 Agility
+23 Giga Drain
+25 Air Slash
+31 Dig
+38 Shadow Ball
+45 X-Scissors
+
+Shedinja
+1 Signal Beam
+1 Leech Life
+5 Take Down
+9 Sand-Attack
+14 Confuse Ray
+19 Silver Wind
+25 Double-Edge
+31 Shadow Sneak
+38 Shadow Ball
+45 X-Scissors
+
+Whismur
+1 Pound
+5 Uproar
+11 Secret Power
+15 Bite
+21 Brick Break
+25 Extrasensory
+31 Body Slam
+35 Roar
+41 Shadow Ball
+41 Teeter Dance
+45 Hyper Voice
+
+Loudred
+1 Supersonic
+1 Uproar
+1 Headbutt
+5 Uproar
+11 Secret Power
+15 Bite
+23 Brick Break
+29 Extrasensory
+37 Body Slam
+43 Hyper Voice
+51 Shadow Ball
+57 Roar
+60 Teeter Dance
+
+Exploud
+1 Pound
+1 Uproar
+1 Stomp
+1 Supersonic
+5 Uproar
+11 Secret Power
+15 Bite
+23 Brick Break
+29 Extrasensory
+37 Body Slam
+40 Hyper Beam
+54 Shadow Ball
+55 Hyper Voice
+63 Roar
+69 Teeter Dance
+
+Makuhita
+1 Faint Attack
+1 Smelling Salts
+4 Sand-Attack
+10 Force Palm
+13 Vital Throw
+19 Fake Out
+22 Whirlwind
+28 Knock Off
+31 Cross Chop
+37 Shadow Punch
+40 Rock Slide
+46 Body Slam
+49 Superpower
+
+Hariyama
+1 Tackle
+1 Faint Attack
+1 Sand-Attack
+1 Seismic Toss
+4 Sand-Attack
+10 Force Palm
+13 Vital Throw
+19 Fake Out
+22 Whirlwind
+29 Knock Off
+33 Cross Chop
+40 Shadow Punch
+44 Rock Slide
+51 Body Slam
+55 Superpower
+
+Nosepass
+1 Thunder Wave
+7 Magnitude
+13 Rock Tomb
+16 Seismic Toss
+22 Rock Slide
+28 Earthquake
+31 Ancient Power
+37 Thunder Wave
+43 Explosion
+46 Counter
+
+Skitty
+1 Assist
+1 Attract
+3 Sing
+7 Secret Power
+13 Teeter Dance
+15 Fake Out
+19 Heal Bell
+25 Body Slam
+27 Shadow Ball
+31 Charm
+37 Thunder Wave
+39 Hyper Voice
+
+Delcatty
+1 Assist
+1 Attract
+1 Sing
+1 Body Slam
+
+Sableye
+1 Seismic Toss
+1 Scratch
+5 Foresight
+9 Night Shade
+13 Shadow Sneak
+17 Fury Swipes
+21 Fake Out
+25 Secret Power
+29 Faint Attack
+33 Knock Off
+37 Confuse Ray
+41 Shadow Ball
+45 Mean Look
+
+Mawile
+1 Crunch
+6 False Swipe
+10 Body Slam
+16 Poison Fang
+21 Sweet Scent
+26 Super Fang
+28 Seismic Toss
+29 Ancient Power
+30 Flash Cannon
+31 Knock Off
+32 Shadow Ball
+32 Brick Break
+
+Aron
+1 Headbutt
+7 Mud-Slap
+10 Metal Claw
+13 Rock Throw
+17 Endeavor
+21 Roar
+25 Double-Edge
+29 Iron Tail
+32 Rock Slide
+34 Flash Cannon
+39 Earth Power
+44 Head Smash
+
+Lairon
+1 Earthquake
+1 Ancient Power
+1 Take Down
+1 Headbutt
+7 Mud-Slap
+10 Metal Claw
+13 Rock Throw
+17 Endeavor
+21 Roar
+25 Double-Edge
+29 Iron Tail
+34 Rock Slide
+37 Flash Cannon
+45 Earth Power
+63 Head Smash
+
+Aggron
+1 Earth Power
+1 Endeavor
+1 Ancient Power
+1 Rock Tomb
+4 Metal Claw
+7 Mud-Slap
+10 Headbutt
+13 Iron Tail
+17 Double-Edge
+21 Roar
+34 Rock Slide
+45 Flash Cannon
+49 Superpower
+55 Earthquake
+75 Head Smash
+
+Meditite
+1 Karate Chop
+4 Seismic Toss
+9 Confusion
+12 Detect
+18 Fake Out
+22 Mind Reader
+28 Rock Slide
+32 Hi Jump Kick
+38 Psychic
+42 Reversal
+48 Recover
+
+Medicham
+1 Fire Punch
+1 Thunder Punch
+1 Ice Punch
+1 Endure
+1 Counter
+1 Signal Beam
+1 Detect
+4 Recycle
+9 Role Play
+12 Magic Coat
+18 Fake Out
+22 Mind Reader
+28 Rock Slide
+32 Hi Jump Kick
+40 Psychic
+46 Reversal
+54 Recover
+
+Electrike
+1 Thunder Shock
+4 Thunder Wave
+9 Quick Attack
+12 Bite
+17 Shock Wave
+20 Odor Sleuth
+25 Wild Charge
+28 Roar
+33 Thunderbolt
+36 Crunch
+41 Flamethrower
+
+Manectric
+1 Overheat
+1 Thunder Wave
+1 Refresh
+1 Signal Beam
+4 Thunder Wave
+9 Quick Attack
+12 Bite
+17 Thunder Wave
+20 Odor Sleuth
+25 Wild Charge
+31 Roar
+36 Thunderbolt
+39 Crunch
+53 Flamethrower
+
+Plusle
+1 Helping Hand
+1 Charge
+2 Thunder Shock
+4 Thunder Wave
+10 Quick Attack
+13 Seismic Toss
+19 Wild Charge
+22 Thunderbolt
+37 Signal Beam
+40 Encore
+47 Fake Tears
+
+Minun
+1 Thunder Shock
+1 Charge
+1 Helping Hand
+4 Thunder Wave
+10 Quick Attack
+13 Seismic Toss
+19 Wild Charge
+22 Thunderbolt
+37 Signal Beam
+40 Encore
+47 Charm
+
+Volbeat
+1 Quick Attack
+5 Confuse Ray
+9 Silver Wind
+13 Moonlight
+17 Seismic Toss
+21 Tail Glow
+25 Signal Beam
+29 Protect
+33 Double-Edge
+37 Thunder Wave
+
+Illumise
+1 Quick Attack
+5 Thunder Wave
+7 Flatter
+9 Silver Wind
+11 Seismic Toss
+13 Moonlight
+15 Wish
+17 Encore
+21 Signal Beam
+37 Charm
+
+Roselia
+1 Acid
+5 Mega Drain
+9 Synthesis
+13 Stun Spore
+17 Magical Leaf
+21 Synthesis
+25 Sludge Bomb
+29 Grass Whistle
+33 Giga Drain
+37 Sweet Scent
+41 Ingrain
+45 Toxic
+49 Petal Dance
+53 Aromatherapy
+57 Synthesis
+
+Gulpin
+1 Acid
+6 Yawn
+9 Fire Punch
+14 Sludge Bomb
+17 Giga Drain
+23 Encore
+28 Toxic
+34 Explosion
+34 Ice Beam
+34 Shadow Ball
+39 Gunk Shot
+
+Swalot
+1 Block
+1 Thunder Punch
+1 Fire Punch
+1 Sludge Bomb
+6 Yawn
+9 Giga Drain
+14 Sludge Bomb
+17 Encore
+23 Toxic
+26 Body Slam
+31 Earthquake
+34 Explosion
+37 Ice Beam
+39 Shadow Ball
+43 Gunk Shot
+
+Carvanha
+1 Water Gun
+1 Bite
+7 Secret Power
+13 Water Pulse
+16 Bounce
+22 Ancient Power
+28 Crunch
+31 Poison Fang
+37 Hydro Pump
+43 Super Fang
+
+Sharpedo
+1 Uproar
+1 Bite
+1 Bubble Beam
+1 Take Down
+7 Swift
+13 Secret Power
+16 Double-Edge
+22 Bounce
+28 Crunch
+33 Ancient Power
+38 Poison Fang
+43 Hydro Pump
+48 Super Fang
+53 Crunch
+
+Wailmer
+1 Self-Destruct
+5 Snore
+10 Water Gun
+14 Bounce
+19 Whirlpool
+23 Aurora Beam
+28 Water Pulse
+32 Double-Edge
+37 Roar
+41 Hyper Voice
+46 Hydro Pump
+100 Water Spout
+
+Wailord
+1 Water Gun
+2 Bubble
+3 Bounce
+4 Snore
+5 Self-Destruct
+10 Water Gun
+14 Bubble Beam
+19 Whirlpool
+23 Aurora Beam
+28 Water Pulse
+32 Dive
+37 Double-Edge
+44 Roar
+52 Hydro Pump
+59 Hyper Voice
+
+Numel
+1 Ember
+1 Stomp
+11 Flame Wheel
+15 Magnitude
+25 Body Slam
+29 Double-Edge
+31 Rock Slide
+35 Earthquake
+41 Flamethrower
+49 Explosion
+
+Camerupt
+1 Explosion
+1 Heat Wave
+1 Superpower
+1 Counter
+11 Earth Power
+19 Overheat
+25 Secret Power
+29 Double-Edge
+33 Rock Slide
+35 Flamethrower
+37 Earthquake
+45 Body Slam
+55 Ancient Power
+
+Torkoal
+1 Ember
+4 Nature Power
+7 Flame Wheel
+14 Smokescreen
+17 Yawn
+20 Body Slam
+27 Rock Slide
+30 Flamethrower
+33 Explosion
+40 Earth Power
+43 Superpower
+46 Heat Wave
+
+Spoink
+1 Confusion
+7 Psywave
+10 Odor Sleuth
+16 Psybeam
+19 Bounce
+25 Confuse Ray
+28 Magic Coat
+34 Psychic
+36 Body Slam
+37 Signal Beam
+43 Thunder Wave
+
+Grumpig
+1 Whirlwind
+1 Psywave
+1 Odor Sleuth
+7 Psywave
+10 Odor Sleuth
+16 Psybeam
+19 Bounce
+25 Confuse Ray
+28 Magic Coat
+37 Psychic
+43 Fire Punch
+43 Signal Beam
+55 Thunder Wave
+
+Spinda
+1 Dizzy Punch
+5 Assist
+10 Fake Out
+14 Hypnosis
+18 Recycle
+20 Counter
+22 Teeter Dance
+24 Thunder Wave
+26 Hyper Voice
+28 Shadow Ball
+30 Superpower
+
+Trapinch
+1 Sand Tomb
+9 Bite
+17 Sand-Attack
+25 Take Down
+33 Crunch
+41 Dig
+49 Rock Slide
+57 Earthquake
+
+Vibrava
+1 Bite
+1 Quick Attack
+1 Faint Attack
+1 Sand Tomb
+17 Faint Attack
+25 Sand Tomb
+33 Dig
+42 Dragon Breath
+43 Air Slash
+44 Double-Edge
+49 Crunch
+57 Earthquake
+
+Flygon
+1 Quick Attack
+1 Heat Wave
+1 Air Slash
+1 Signal Beam
+9 Rock Slide
+17 Superpower
+25 Sand Tomb
+33 Dragon Breath
+35 Double-Edge
+41 Crunch
+53 Dragon Claw
+65 Earthquake
+
+Cacnea
+1 Poison Sting
+1 Pursuit
+5 Absorb
+9 Seismic Toss
+13 Magical Leaf
+17 Sand-Attack
+21 Brick Break
+25 Ingrain
+29 Faint Attack
+33 Spikes
+37 Needle Arm
+41 Revenge
+45 Nature Power
+
+Cacturne
+1 Teeter Dance
+1 Superpower
+1 Thunder Wave
+1 Grass Whistle
+5 Absorb
+9 Faint Attack
+13 Synthesis
+17 Sand-Attack
+21 Brick Break
+25 Ingrain
+29 Faint Attack
+35 Spikes
+41 Needle Arm
+47 Faint Attack
+53 Thunder Punch
+
+Swablu
+1 Peck
+1 False Swipe
+8 Swift
+11 Sing
+16 Aerial Ace
+21 Refresh
+24 Body Slam
+31 Hyper Voice
+38 Air Slash
+41 Heat Wave
+48 Heal Bell
+
+Altaria
+1 Sky Attack
+1 Double-Edge
+1 Earthquake
+1 Sing
+8 Heat Wave
+11 Sing
+18 Aerial Ace
+21 Refresh
+28 Body Slam
+31 Hyper Voice
+35 Dragon Breath
+40 Air Slash
+42 Dragon Claw
+45 Roar
+59 Heal Bell
+
+Zangoose
+1 Scratch
+4 Pursuit
+7 Quick Attack
+10 False Swipe
+13 X-Scissors
+19 Slash
+25 Brick Break
+31 Crush Claw
+37 Shadow Ball
+46 Body Slam
+55 Endeavor
+Seviper
+1 Bite
+7 Toxic
+10 Body Slam
+16 Crunch
+19 Poison Fang
+25 X-Scissors
+28 Giga Drain
+34 Glare
+37 Poison Tail
+43 Earthquake
+
+Solrock
+1 Morning Sun
+1 Earthquake
+7 Psybeam
+13 Rock Throw
+19 Psywave
+25 Rock Slide
+31 Psychic
+37 Signal Beam
+43 Ancient Power
+49 Explosion
+
+Barboach
+1 Mud-Slap
+6 Water Gun
+6 Magnitude
+11 Mud Shot
+16 Bubble Beam
+21 Rock Slide
+26 Aurora Beam
+26 Bounce
+31 Earthquake
+36 Muddy Water
+41 Ice Beam
+
+Whiscash
+1 Wild Charge
+1 Mud-Slap
+1 Mud Sport
+6 Water Gun
+6 Magnitude
+11 Mud Shot
+16 Bubble Beam
+21 Rock Slide
+26 Aurora Beam
+26 Bounce
+36 Earthquake
+46 Muddy Water
+56 Ice Beam
+
+Corphish
+1 Bubble Beam
+7 False Swipe
+10 Aerial Ace
+13 Metal Claw
+20 Water Pulse
+23 Body Slam
+26 X-Scissors
+32 Crunch
+35 Crabhammer
+38 Ice Beam
+44 Rock Slide
+
+Crawdaunt
+1 Counter
+1 Nature Power
+1 Sludge Bomb
+1 Superpower
+4 Brick Break
+7 Bubble Beam
+10 Endeavor
+13 Body Slam
+23 X-Scissors
+27 Bubble Beam
+34 Crunch
+36 Crabhammer
+39 Ice Beam
+44 Rock Slide
+
+Baltoy
+1 Confusion
+3 Mud Shot
+5 Rapid Spin
+7 Mud-Slap
+11 Psybeam
+15 Rock Tomb
+19 Self-Destruct
+25 Ancient Power
+31 Psychic
+37 Explosion
+45 Earthquake
+
+Claydol
+1 Earth Power
+1 Psywave
+1 Recycle
+1 Rapid Spin
+3 Magic Coat
+5 Refresh
+7 Mud-Slap
+11 Psybeam
+15 Signal Beam
+19 Self-Destruct
+25 Ancient Power
+31 Psychic
+36 Hyper Beam
+42 Explosion
+55 Earthquake
+
+Lileep
+1 Rock Tomb
+8 Mega Drain
+15 Acid
+22 Rock Slide
+29 Sludge Bomb
+36 Recover
+43 Ancient Power
+46 Confuse Ray
+48 Giga Drain
+50 Earth Power
+
+Cradily
+1 Ancient Power
+1 Ingrain
+1 Mirror Coat
+1 Acid
+8 Ingrain
+15 Rock Tomb
+22 Mega Drain
+29 Sludge Bomb
+36 Recover
+48 Rock Slide
+57 Confuse Ray
+60 Giga Drain
+62 Earth Power
+
+Anorith
+1 Rock Tomb
+7 Slash
+13 Leech Life
+19 Aerial Ace
+25 Body Slam
+31 Rock Slide
+37 Crush Claw
+43 X-Scissors
+49 Ancient Power
+55 Earth Power
+
+Armaldo
+1 Seismic Toss
+1 Block
+1 Rock Tomb
+1 Sand-Attack
+7 Leech Life
+13 Aerial Ace
+19 Body Slam
+25 Rock Slide
+31 Crush Claw
+40 Superpower
+46 X-Scissors
+55 Ancient Power
+64 Earth Power
+
+Feebas
+1 Flail
+16 Tackle
+20 Bounce
+
+Milotic
+1 Recover
+3 Mirror Coat
+5 Twister
+15 Refresh
+20 Water Pulse
+25 Attract
+30 Dragon Breath
+35 Water Sport
+40 Whirlpool
+45 Hydro Pump
+50 Ice Beam
+
+Castform
+1 Tackle
+10 Water Gun
+10 Ember
+10 Powder Snow
+20 Water Pulse
+20 Flame Wheel
+20 Icy Wind
+30 Weather Ball
+
+Kecleon
+1 Fake Out
+1 Counter
+1 Rock Slide
+1 Shadow Sneak
+4 Psybeam
+6 Dizzy Punch
+7 Seismic Toss
+12 Knock Off
+17 Thunder Wave
+20 Brick Break
+25 Shadow Ball
+27 Body Slam
+36 Ancient Power
+
+Shuppet
+1 Knock Off
+8 Shadow Sneak
+13 Night Shade
+20 Pursuit
+25 Secret Power
+32 Will-o-Wisp
+37 Faint Attack
+44 Shadow Ball
+49 Double-Edge
+56 Confuse Ray
+
+Banette
+1 Knock Off
+1 Shadow Sneak
+1 Pursuit
+1 Gunk Shot
+8 Pain Split
+13 Night Shade
+20 Magic Coat
+25 Body Slam
+32 Will-o-Wisp
+39 Faint Attack
+48 Shadow Ball
+55 Double-Edge
+64 Confuse Ray
+
+Duskull
+1 Secret Power
+1 Night Shade
+5 Disable
+12 Foresight
+16 Shadow Sneak
+23 Confuse Ray
+27 Pursuit
+34 Teleport
+38 Night Shade
+45 Mean Look
+49 Shadow Ball
+
+Dusclops
+1 Bind
+1 Secret Power
+1 Night Shade
+1 Disable
+5 Disable
+12 Foresight
+16 Shadow Sneak
+23 Confuse Ray
+27 Pursuit
+34 Night Shade
+37 Shadow Punch
+41 Teleport
+51 Mean Look
+58 Shadow Ball
+
+Tropius
+1 Stomp
+1 Whirlwind
+7 Sweet Scent
+11 Razor Leaf
+17 Aerial Ace
+21 Magical Leaf
+27 Body Slam
+31 Air Slash
+37 Earthquake
+41 Giga Drain
+47 Synthesis
+
+Chimecho
+1 Psybeam
+6 Wish
+9 Thunder Wave
+14 Safeguard
+17 Recover
+22 Hypnosis
+25 Yawn
+30 Signal Beam
+33 Psychic
+38 Heal Bell
+41 Psywave
+46 Recycle
+
+Absol
+1 Mean Look
+5 Will-o-Wisp
+9 Wish
+13 Quick Attack
+17 Thunder Wave
+21 Bite
+26 Body Slam
+31 Shadow Ball
+36 Megahorn
+41 Double-Edge
+46 Superpower
+
+Snorunt
+1 Powder Snow
+1 Disable
+7 Water Pulse
+10 Bite
+16 Icy Wind
+19 Headbutt
+25 Body Slam
+28 Crunch
+34 Ice Beam
+37 Ice Shard
+43 Weather Ball
+
+Glalie
+1 Disable
+1 Super Fang
+1 Explosion
+1 Blizzard
+1 Weather Ball
+7 Block
+10 Bite
+16 Icy Wind
+19 Headbutt
+25 Shadow Ball
+28 Crunch
+34 Ice Beam
+55 Ice Shard
+61 Signal Beam
+
+Spheal
+1 Encore
+2 Powder Snow
+3 Water Gun
+7 Headbutt
+12 Bubble Beam
+18 Body Slam
+22 Aurora Beam
+31 Yawn
+37 Water Pulse
+37 Double-Edge
+43 Blizzard
+49 Ice Beam
+
+Sealeo
+1 Ice Shard
+1 Super Fang
+2 Powder Snow
+3 Water Gun
+4 Encore
+16 Bubble Beam
+19 Body Slam
+25 Aurora Beam
+31 Yawn
+39 Water Pulse
+39 Double-Edge
+47 Blizzard
+55 Ice Beam
+
+Walrein
+1 Ice Shard
+1 Super Fang
+1 Signal Beam
+1 Rock Slide
+7 Encore
+13 Ice Ball
+19 Body Slam
+25 Aurora Beam
+31 Yawn
+39 Water Pulse
+39 Double-Edge
+50 Blizzard
+61 Ice Beam
+
+Clamperl
+1 Clamp
+1 Water Pulse
+1 Swift
+1 Aurora Beam
+
+Huntail
+1 Clamp
+20 Water Pulse
+22 Body Slam
+24 Crunch
+29 Confuse Ray
+36 Muddy Water
+38 Ice Beam
+40 Super Fang
+
+Gorebyss
+1 Whirlpool
+8 Confusion
+15 Swift
+22 Water Pulse
+29 Bounce
+37 Psychic
+43 Aurora Beam
+50 Hydro Pump
+
+Relicanth
+1 Tackle
+1 Rock Tomb
+8 Bubble Beam
+15 Rock Slide
+22 Yawn
+29 Ice Beam
+36 Ancient Power
+43 Earthquake
+50 Hydro Pump
+57 Double-Edge
+64 Head Smash
+
+Luvdisc
+1 Secret Power
+4 Charm
+12 Water Pulse
+16 Ice Beam
+20 Double-Edge
+22 Attract
+24 Sweet Kiss
+27 Flail
+29 Surf
+
+Bagon
+1 Ember
+5 Bite
+9 Rage
+17 Headbutt
+21 Twister
+25 Take Down
+33 Dragon Breath
+37 Roar
+41 Crunch
+49 Dragon Claw
+53 Double-Edge
+
+Shelgon
+1 Dragon Rage
+1 Crunch
+1 Hydro Pump
+1 Headbutt
+5 Bite
+9 Body Slam
+17 Headbutt
+21 Twister
+25 Ember
+30 Take Down
+38 Dragon Breath
+47 Roar
+56 Crunch
+69 Dragon Claw
+78 Double-Edge
+
+Salamence
+1 Air Slash
+1 Hydro Pump
+1 Flamethrower
+1 Headbutt
+5 Bite
+9 Aerial Ace
+17 Headbutt
+21 Steel Wing
+25 Rock Slide
+30 Body Slam
+38 Dragon Breath
+50 Fly
+61 Crunch
+62 Roar
+71 Double-Edge
+93 Dragon Claw
+
+Beldum
+1 Take Down
+
+Metang
+1 Take Down
+20 Confusion
+20 Metal Claw
+26 Pursuit
+32 Psybeam
+38 Flash Cannon
+44 Double-Edge
+50 Meteor Mash
+56 Psychic
+62 Teleport
+
+Metagross
+1 Ice Punch
+1 Thunder Punch
+1 Fire Punch
+1 Earth Power
+20 Signal Beam
+26 Pursuit
+32 Body Slam
+38 Flash Cannon
+44 Double-Edge
+55 Meteor Mash
+66 Psychic
+69 Teleport
+
+Regirock
+1 Thunder Wave
+9 Rock Throw
+17 Body Slam
+19 Rock Slide
+25 Superpower
+33 Self-Destruct
+40 Explosion
+57 Earthquake
+65 Ancient Power
+
+Regice
+1 Ancient Power
+9 Icy Wind
+10 Thunder Wave
+17 Ice Punch
+25 Superpower
+33 Self-Destruct
+40 Explosion
+49 Ice Beam
+57 Thunderbolt
+
+Registeel
+1 Seismic Toss
+9 Metal Claw
+17 Thunder Wave
+25 Ancient Power
+33 Superpower
+36 Flash Cannon
+39 Self-Destruct
+40 Explosion
+57 Earthquake
+65 Meteor Mash
+
+Latias
+1 Psywave
+5 Wish
+10 Helping Hand
+15 Safeguard
+20 Dragon Breath
+25 Psychic
+30 Refresh
+35 Mist Ball
+37 Memento
+40 Recover
+50 Dragon Claw
+
+Latios
+1 Psywave
+5 Memento
+10 Helping Hand
+15 Safeguard
+20 Dragon Breath
+25 Psychic
+30 Refresh
+35 Luster Purge
+40 Memento
+45 Recover
+50 Dragon Claw
+
+Kyogre
+1 Icy Wind
+5 Signal Beam
+15 Ancient Power
+20 Body Slam
+30 Muddy Water
+35 Roar
+45 Hydro Pump
+50 Ancient Power
+60 Ice Beam
+65 Double-Edge
+75 Water Spout
+
+Groudon
+1 Mud Shot
+5 Thunder Wave
+15 Ancient Power
+20 Roar
+30 Rock Slide
+35 Body Slam
+45 Fire Blast
+50 Double-Edge
+60 Overheat
+65 Solar Beam
+75 Earthquake
+
+Rayquaza
+1 Double-Edge
+5 Air Slash
+15 Ancient Power
+20 Extreme Speed
+30 Rock Slide
+35 Crunch
+45 Fly
+50 Overheat
+60 Hyper Voice
+65 Roar
+70 Dragon Claw
+
+Jirachi
+1 Wish
+1 Confusion
+5 Signal Beam
+10 Swift
+15 Helping Hand
+20 Psychic
+25 Refresh
+30 Doom Desire
+35 Double-Edge
+40 Refresh
+45 Teleport
+50 Meteor Mash
+
+Deoxys
+1 Superpower
+1 Wrap
+5 Night Shade
+10 Fire Punch
+15 Knock Off
+20 Pursuit
+25 Psychic
+30 Signal Beam
+35 Thunder Wave
+40 Recover
+45 Psycho Boost
+50 Extreme Speed

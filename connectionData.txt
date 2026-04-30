@@ -1,9 +1,0 @@
-<?php
-
-$server = "ix-dev.cs.uoregon.edu";
-$dbname = "ek_data";
-$user = "guest";
-$pass = "guest";
-$port = "3932";
-
-?>
