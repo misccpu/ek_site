@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 
 <?php
-
-include('connectionData.txt');
-
-$conn = mysqli_connect($server, $user, $pass, $dbname, $port)
-or die('Error connecting to MySQL server.');
-
+    include(__DIR__ . '/../config/connectionData.php');
+    $conn = mysqli_connect($server, $user, $pass, $dbname, $port)
+        or die('Error connecting to MySQL server.');
 ?>
 
 <html>
@@ -21,10 +18,10 @@ or die('Error connecting to MySQL server.');
 <h1>===== EK Database TEMPLATE! =====</h1>
 
 <div>
-<a href="https://ix.cs.uoregon.edu/~debel/index.html">Home</a> &#183;
-<a href="https://ix.cs.uoregon.edu/~debel/pokedex.php">Pokedex</a> &#183;
-<a href="https://ix.cs.uoregon.edu/~debel/pokedex_all.php">Pokedex All</a> &#183;
-<a href="https://ix.cs.uoregon.edu/~debel/import.php">Import</a>
+    <a href="https://ix.cs.uoregon.edu/~debel/index.html">Home</a> &#183;
+    <a href="https://ix.cs.uoregon.edu/~debel/pokedex.php">Pokedex</a> &#183;
+    <a href="https://ix.cs.uoregon.edu/~debel/pokedex_all.php">Pokedex All</a> &#183;
+    <a href="https://ix.cs.uoregon.edu/~debel/import.php">Import</a>
 </div>
 
 <hr>
@@ -36,10 +33,10 @@ or die('Error connecting to MySQL server.');
 <hr>
 
 <div>
-<a href="https://ix.cs.uoregon.edu/~debel/index.html">Home</a> &#183;
-<a href="https://ix.cs.uoregon.edu/~debel/pokedex.php">Pokedex</a> &#183;
-<a href="https://ix.cs.uoregon.edu/~debel/pokedex_all.php">Pokedex All</a> &#183;
-<a href="https://ix.cs.uoregon.edu/~debel/import.php">Import</a>
+    <a href="https://ix.cs.uoregon.edu/~debel/index.html">Home</a> &#183;
+    <a href="https://ix.cs.uoregon.edu/~debel/pokedex.php">Pokedex</a> &#183;
+    <a href="https://ix.cs.uoregon.edu/~debel/pokedex_all.php">Pokedex All</a> &#183;
+    <a href="https://ix.cs.uoregon.edu/~debel/import.php">Import</a>
 </div>
 
 <p><h6>Final Project | CS 451 | Donny Ebel<br>
