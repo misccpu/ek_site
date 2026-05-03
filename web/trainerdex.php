@@ -21,8 +21,8 @@
 
         <!-- Query location first -->
         <?php
-        $location_query = "SELECT DISTINCT t.location, l.sort FROM ek_data.trainer t JOIN ek_data.location l ON t.location=l.location WHERE l.sort IS NOT NULL ORDER BY l.sort;";
-        $all_locations = mysqli_query($conn, $location_query) or die(mysqli_error($conn));
+            $location_query = "SELECT DISTINCT t.location, l.sort FROM ek_data.trainer t JOIN ek_data.location l ON t.location=l.location WHERE l.sort IS NOT NULL ORDER BY l.sort;";
+            $all_locations = mysqli_query($conn, $location_query) or die(mysqli_error($conn));
         ?>
 
         <!-- Location dropdown -->
@@ -108,7 +108,7 @@
                 // Print trainer heading, then display picture
                 print "<div>";
                 print "<h3>$trainer_loc $trainer_class $trainer_name</h3>";
-                print "<h3>$trainer_name</h3>";
+                //print "<h3>$trainer_name</h3>";
 
                 // If we need class and name...
                 if (
@@ -146,7 +146,7 @@
                     $trainer_gender_result = mysqli_query($conn, $trainer_gender_query) or die(mysqli_error($conn));
 
                     while ($row = mysqli_fetch_array($trainer_gender_result, MYSQLI_BOTH))
-                        print "<img src='ek_sprites/rse/trainer/$trainer_class ($row[gender]).png' alt='$trainer_class $trainer_name ($row[gender])'>";
+                        print "<img src='assets/ek_sprites/rse/trainer/$trainer_class ($row[gender]).png' alt='$trainer_class $trainer_name ($row[gender])'>";
                 }
 
                 // If we have a rival...
@@ -156,17 +156,17 @@
                         $trainer_name == "May (Torchic)" ||
                         $trainer_name == "May (Mudkip)"
                     )
-                        print "<img src='ek_sprites/rse/trainer/$trainer_class May.png' alt='$trainer_class May'>";
+                        print "<img src='assets/ek_sprites/rse/trainer/$trainer_class May.png' alt='$trainer_class May'>";
 
                     else if (
                         $trainer_name == "Brendan (Treecko)" ||
                         $trainer_name == "Brendan (Torchic)" ||
                         $trainer_name == "Brendan (Mudkip)"
                     )
-                        print "<img src='ek_sprites/rse/trainer/$trainer_class Brendan.png' alt='$trainer_class Brendan'>";
+                        print "<img src='assets/ek_sprites/rse/trainer/$trainer_class Brendan.png' alt='$trainer_class Brendan'>";
 
                     else
-                        print "<img src='ek_sprites/rse/trainer/$trainer_class $trainer_name.png' alt='$trainer_class $trainer_name'>";
+                        print "<img src='assets/ek_sprites/rse/trainer/$trainer_class $trainer_name.png' alt='$trainer_class $trainer_name'>";
                 }
 
                 // If we have a Grunt... (Grunt gender not recorded in database or dealt with here yet)
@@ -190,14 +190,14 @@
                     $trainer_name == "Grunt (16)"
                 ) {
                     if ($trainer_class == "Team Aqua")
-                        print "<img src='ek_sprites/rse/trainer/Team Aqua Grunt (m).png' alt='$trainer_class Grunt'>";
+                        print "<img src='assets/ek_sprites/rse/trainer/Team Aqua Grunt (m).png' alt='$trainer_class Grunt'>";
                     else
-                        print "<img src='ek_sprites/rse/trainer/Team Magma Grunt (m).png' alt='$trainer_class Grunt'>";
+                        print "<img src='assets/ek_sprites/rse/trainer/Team Magma Grunt (m).png' alt='$trainer_class Grunt'>";
                 }
 
                 // Otherwise we just need class.
                 else
-                    print "<img src='ek_sprites/rse/trainer/$trainer_class.png' alt='$trainer_class'>";
+                    print "<assets/img src='ek_sprites/rse/trainer/$trainer_class.png' alt='$trainer_class'>";
 
                 print "</div><br>";
 
@@ -209,7 +209,13 @@
                     print "$row[sort]) $row[name]($row[gender]) Lv.$row[level]\n\n";
 
                     // Pic
-                    print "<img src='ek_sprites/rse/ruby_and_sapphire/$row[dex_num].png'>\n";
+                    $dex = (int)$row['dex_num'];
+
+                    if ($dex <= 151) {
+                        print "<img src='assets/ek_sprites/frlg/FRLG/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'";
+                    } else {
+                        print "<img src='assets/ek_sprites/rse/ruby_and_sapphire/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'";
+                    }
 
                     // Type1, type2, item, nature, ability
                     print "$row[type1] $row[type2]\n";
