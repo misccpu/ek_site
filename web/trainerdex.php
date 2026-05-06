@@ -42,18 +42,28 @@
 
                 <br><br>
 
-                <!-- Trainer dropdown -->
+                <!-- Trainer dropdown NOTE: DROPDOWN DOESN'T SORT GRUNT (#) NUMERICALLY -->
                 <select name='class_and_name_select' onchange='this.form.submit();'>
                     <option value="">Select Trainer</option>
                     <?php
                         if (isset($_POST['location_select']) && $_POST['location_select'] !== "") {
                             $trainer_location = $_POST['location_select'];
+                            
+                            print "{$row['class']} | {$row['name']}<br>";
 
                             $query = "
                                 SELECT DISTINCT class, name 
                                 FROM trainer 
                                 WHERE location = '$trainer_location'
-                                ORDER BY class, name ASC;
+                                ORDER BY 
+                                    class REGEXP '^Grunt \\([0-9]+\\)$',
+                                    CASE
+                                        WHEN class REGEXP '^Grunt \\([0-9]+\\)$'
+                                        THEN CAST(SUBSTRING_INDEX(SUBSTRING_INDEX(class, '(', -1), ')', 1) AS UNSIGNED)
+                                        ELSE 0
+                                    END,
+                                    class,
+                                    name;
                             ";
 
                             $result = mysqli_query($conn, $query);
@@ -107,18 +117,19 @@
 
                 // Print trainer heading, then display picture
                 print "<div>";
-                print "<h3>$trainer_loc $trainer_class $trainer_name</h3>";
+                print "<h3>$trainer_loc</h3>";
                 //print "<h3>$trainer_name</h3>";
 
                 // If we need class and name...
                 if (
                     $trainer_class == "Aqua Admin" ||
+                    $trainer_class == "Champion" ||
                     $trainer_class == "Elite Four" ||
                     $trainer_class == "Leader" ||
                     $trainer_class == "Magma Admin" ||
                     $trainer_class == "Winstrate"
                 ) {
-                    print "<img src='assets/ek_sprites/rse/trainer/$trainer_class.png' alt='$trainer_class $trainer_name'>";
+                    print "<img src='assets/ek_sprites/rse/trainer/$trainer_class $trainer_name.png' alt='$trainer_class $trainer_name'>";
                 }
 
                 // If we need class and gender...
@@ -170,58 +181,42 @@
                 }
 
                 // If we have a Grunt... (Grunt gender not recorded in database or dealt with here yet)
-                else if (
-                    $trainer_name == "Grunt" ||
-                    $trainer_name == "Grunt (1)" ||
-                    $trainer_name == "Grunt (2)" ||
-                    $trainer_name == "Grunt (3)" ||
-                    $trainer_name == "Grunt (4)" ||
-                    $trainer_name == "Grunt (5)" ||
-                    $trainer_name == "Grunt (6)" ||
-                    $trainer_name == "Grunt (7)" ||
-                    $trainer_name == "Grunt (8)" ||
-                    $trainer_name == "Grunt (9)" ||
-                    $trainer_name == "Grunt (10)" ||
-                    $trainer_name == "Grunt (11)" ||
-                    $trainer_name == "Grunt (12)" ||
-                    $trainer_name == "Grunt (13)" ||
-                    $trainer_name == "Grunt (14)" ||
-                    $trainer_name == "Grunt (15)" ||
-                    $trainer_name == "Grunt (16)"
-                ) {
+                else if (preg_match('/^Grunt( \(\d+\))?$/', $trainer_name)) {
                     if ($trainer_class == "Team Aqua")
                         print "<img src='assets/ek_sprites/rse/trainer/Team Aqua Grunt (m).png' alt='$trainer_class Grunt'>";
                     else
                         print "<img src='assets/ek_sprites/rse/trainer/Team Magma Grunt (m).png' alt='$trainer_class Grunt'>";
                 }
 
-                // Otherwise we just need class.
+                // Otherwise we just need a class
                 else
                     print "<assets/img src='ek_sprites/rse/trainer/$trainer_class.png' alt='$trainer_class'>";
 
-                print "</div><br>";
+                print "<h3>$trainer_class $trainer_name</h3></div><br>";
 
+                // NOW PRINT TRAINER POKEMON
+                
                 // Print all of the trainer's Pokemon
                 while ($row = mysqli_fetch_array($result, MYSQLI_BOTH)) {
-                    // Sort, name, gender, level
+                    // Create box
                     print "<div class='row'>";
                     print "<p class='column'>";
-                    print "$row[sort]) $row[name]($row[gender]) Lv.$row[level]\n\n";
-
+                    
                     // Pic
                     $dex = (int)$row['dex_num'];
-
                     if ($dex <= 151) {
-                        print "<img src='assets/ek_sprites/frlg/FRLG/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'";
+                        print "<img src='assets/ek_sprites/frlg/FRLG/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'>";
                     } else {
-                        print "<img src='assets/ek_sprites/rse/ruby_and_sapphire/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'";
+                        print "<img src='assets/ek_sprites/rse/ruby_and_sapphire/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'>";
                     }
-
-                    // Type1, type2, item, nature, ability
-                    print "$row[type1] $row[type2]\n";
-                    print "@$row[hold_item]\n";
+                    
+                    // Print info
+                    print "\n";
+                    print "$row[sort]) $row[name]($row[gender]) Lv.$row[level]\n";
+                    print "@ $row[hold_item]\n";
+                    print "Ability: $row[ability]\n\n";
+                    print "$row[type1] | $row[type2]\n";
                     print "Nature: $row[nature]\n";
-                    print "Ability: $row[ability]\n";
                     print "IV: $row[iv]\n";
                     print "</p>";
 
