@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 
+<!-- TO ADD:
+ Cycling Road Trainers (maybe check other optionals)
+ Update movesets in newest patch!! -->
+
 <?php
     include(__DIR__ . '/../config/connectionData.php');
     $conn = mysqli_connect($server, $user, $pass, $dbname, $port)
@@ -55,15 +59,7 @@
                                 SELECT DISTINCT class, name 
                                 FROM trainer 
                                 WHERE location = '$trainer_location'
-                                ORDER BY 
-                                    class REGEXP '^Grunt \\([0-9]+\\)$',
-                                    CASE
-                                        WHEN class REGEXP '^Grunt \\([0-9]+\\)$'
-                                        THEN CAST(SUBSTRING_INDEX(SUBSTRING_INDEX(class, '(', -1), ')', 1) AS UNSIGNED)
-                                        ELSE 0
-                                    END,
-                                    class,
-                                    name;
+                                ORDER BY class, name ASC;
                             ";
 
                             $result = mysqli_query($conn, $query);
@@ -115,24 +111,26 @@
 
                 print "<pre>";
 
-                // Print trainer heading, then display picture
+                // Print trainer heading
                 print "<div>";
                 print "<h3>$trainer_loc</h3>";
                 //print "<h3>$trainer_name</h3>";
 
-                // If we need class and name...
+                // If we need class and name... display picture
                 if (
                     $trainer_class == "Aqua Admin" ||
+                    $trainer_class == "Aqua Leader" ||
                     $trainer_class == "Champion" ||
                     $trainer_class == "Elite Four" ||
                     $trainer_class == "Leader" ||
                     $trainer_class == "Magma Admin" ||
+                    $trainer_class == "Magma Leader" ||
                     $trainer_class == "Winstrate"
                 ) {
                     print "<img src='assets/ek_sprites/rse/trainer/$trainer_class $trainer_name.png' alt='$trainer_class $trainer_name'>";
                 }
 
-                // If we need class and gender...
+                // If we need class and gender... display picture
                 else if (
                     $trainer_class == "Cool Trainer" ||
                     $trainer_class == "Expert" ||
@@ -149,7 +147,6 @@
                     $trainer_class == "Triathlete Swimmer" ||
                     $trainer_class == "Triathlete Cyclist"
                 ) {
-                    // Make query for trainer gender and display correct image
                     $trainer_gender_query = "SELECT gender FROM trainer WHERE location LIKE ";
                     $trainer_gender_query = $trainer_gender_query . "'" . $trainer_loc . "' AND class LIKE ";
                     $trainer_gender_query = $trainer_gender_query . "'" . $trainer_class . "' AND name LIKE ";
@@ -160,7 +157,7 @@
                         print "<img src='assets/ek_sprites/rse/trainer/$trainer_class ($row[gender]).png' alt='$trainer_class $trainer_name ($row[gender])'>";
                 }
 
-                // If we have a rival...
+                // If we have a rival... display picture
                 else if ($trainer_class == "Pkmn Trainer") {
                     if (
                         $trainer_name == "May (Treecko)" ||
@@ -190,7 +187,7 @@
 
                 // Otherwise we just need a class
                 else
-                    print "<assets/img src='ek_sprites/rse/trainer/$trainer_class.png' alt='$trainer_class'>";
+                    print "<img src='assets/ek_sprites/rse/trainer/$trainer_class.png' alt='$trainer_class'>";
 
                 print "<h3>$trainer_class $trainer_name</h3></div><br>";
 
