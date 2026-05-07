@@ -2,6 +2,7 @@
 TO DO:
 -Complete TM/HM/Tutor/Egg Moves
 -Complete movedex 
+-Add trainer flags?
 -->
 
 <html>
