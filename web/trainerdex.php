@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 
-<!-- TO ADD:
- Cycling Road Trainers (maybe check other optionals)
- Update movesets in newest patch!! -->
-
 <?php
     include(__DIR__ . '/../config/connectionData.php');
     $conn = mysqli_connect($server, $user, $pass, $dbname, $port)
@@ -210,9 +206,9 @@
                     // Print info
                     print "\n";
                     print "$row[sort]) $row[name]($row[gender]) Lv.$row[level]\n";
-                    print "@ $row[hold_item]\n";
+                    if (!empty($row['hold_item'])) { print "@ {$row['hold_item']}\n"; }
                     print "Ability: $row[ability]\n\n";
-                    print "$row[type1] | $row[type2]\n";
+                    print $row['type1'] . (!empty($row['type2']) ? " | " . $row['type2'] : "") . "\n";
                     print "Nature: $row[nature]\n";
                     print "IV: $row[iv]\n";
                     print "</p>";
