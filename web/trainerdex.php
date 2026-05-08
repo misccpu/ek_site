@@ -169,7 +169,7 @@
                     )
                         print "<img src='assets/ek_sprites/rse/trainer/$trainer_class Brendan.png' alt='$trainer_class Brendan'>";
 
-                    else
+                    else    // It's Wally!
                         print "<img src='assets/ek_sprites/rse/trainer/$trainer_class $trainer_name.png' alt='$trainer_class $trainer_name'>";
                 }
 
@@ -207,7 +207,7 @@
                     print "\n";
                     print "$row[sort]) $row[name]($row[gender]) Lv.$row[level]\n";
                     if (!empty($row['hold_item'])) { print "@ {$row['hold_item']}\n"; }
-                    print "Ability: $row[ability]\n\n";
+                    print "- $row[ability] -\n\n";
                     print $row['type1'] . (!empty($row['type2']) ? " | " . $row['type2'] : "") . "\n";
                     print "Nature: $row[nature]\n";
                     print "IV: $row[iv]\n";
