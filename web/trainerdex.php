@@ -6,7 +6,7 @@
         or die('Error connecting to MySQL server.');
 ?>
 
-    <html>
+<html>
 
     <head>
         <title>Pokemon Emerald Kaizo - Database TrainerDex App</title>
