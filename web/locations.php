@@ -43,9 +43,10 @@
         <!-- Query encounter info -->
         <?php
             $location = $_POST['location_select'] ?? "";
-            print "<div><h3>$location Encounters</h3></div><br>";
-
+            
             if ($location !== "") {
+                print "<div><h3>$location Encounters</h3></div><br>";
+                
                 // Walking encounters
                 $enc_query = "SELECT p.dex_num, e.name, e.floor, e.encounter_type, e.perc FROM encounter e JOIN pokemon p on e.name=p.name WHERE location LIKE ";
                 $enc_query = $enc_query . "'" . $location . "' AND (encounter_type = 'Grass' OR encounter_type = 'Cave' OR encounter_type = 'tower') ORDER BY e.encounter_type, e.floor, e.perc DESC;";
