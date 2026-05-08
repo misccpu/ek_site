@@ -56,8 +56,6 @@
         </form>
     </div>
 
-    <hr>
-
     <!-- Get and print Pokedex data -->
     <?php
         // Prepare.
@@ -115,6 +113,7 @@
         $enc_query = $enc_query . " ORDER BY l.sort ASC;";
 
         // Make the queries
+        $enc_result = "";
         $result = mysqli_query($conn, $name_query) or die(mysqli_error($conn));
         $evo_result1 = mysqli_query($conn, $evo_query1) or die(mysqli_error($conn));
         $evo_result2 = mysqli_query($conn, $evo_query2) or die(mysqli_error($conn));
@@ -122,57 +121,59 @@
         $enc_result = mysqli_query($conn, $enc_query) or die(mysqli_error($conn));
 
         // Loop through results and print data!
-        print "<div class='row'>";
-        print "<pre>";
-        while ($row = mysqli_fetch_array($result, MYSQLI_BOTH)) {
-            // Dex num and name
-            print "<b>#$row[dex_num]</b><br>";
-            print "<h3>$row[name]</h3>";
-            
-            // Pic
-            $dex = (int)$row['dex_num'];
+        if ($enc_result && mysqli_num_rows($enc_result) > 0) {
+            print "<div class='row'>";
+            print "<pre>";
+            while ($row = mysqli_fetch_array($result, MYSQLI_BOTH)) {
+                // Dex num and name
+                print "<b>#$row[dex_num]</b><br>";
+                print "<h3>$row[name]</h3>";
+                
+                // Pic
+                $dex = (int)$row['dex_num'];
 
-            if ($dex <= 151) {
-                print "<p id='regular'><img src='assets/ek_sprites/frlg/FRLG/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'></p>";
-                print "<p id='shiny' style='display:none'><img src='assets/ek_sprites/frlg/Shiny/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'></p>";
-            } else {
-                print "<p id='regular'><img src='assets/ek_sprites/rse/ruby_and_sapphire/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'></p>";
-                print "<p id='shiny' style='display:none'><img src='assets/ek_sprites/rse/ruby_and_sapphire_shiny/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'></p>";
+                if ($dex <= 151) {
+                    print "<p id='regular'><img src='assets/ek_sprites/frlg/FRLG/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'></p>";
+                    print "<p id='shiny' style='display:none'><img src='assets/ek_sprites/frlg/Shiny/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'></p>";
+                } else {
+                    print "<p id='regular'><img src='assets/ek_sprites/rse/ruby_and_sapphire/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'></p>";
+                    print "<p id='shiny' style='display:none'><img src='assets/ek_sprites/rse/ruby_and_sapphire_shiny/" . sprintf("%03d", $dex) . ".png' alt='{$row['name']}'></p>";
+                }
+
+                print "<input type='checkbox' id='shininess' onclick='swap_img()'>Shiny?<br><br>";
+
+                // Type1, type2, ability1, ability2, stats
+                print "<u>Types:</u>\n$row[type1]\n$row[type2]\n";
+                print "<u>Abilities:</u>\n$row[ability1]\n$row[ability2]\n";
+                print "HP:\t$row[hp] <meter id='hp' min='0' max='255' low='80' high='255' optimum='120' value='$row[meterHP]'></meter>\n";
+                print "ATK:\t$row[atk] <meter id='atk' min='0' max='255' low='80' high='160' optimum='100' value='$row[meterATK]'></meter>\n";
+                print "DEF:\t$row[def] <meter id='def' min='0' max='255' low='80' high='230' optimum='100' value='$row[meterDEF]'></meter>\n";
+                print "SATK:\t$row[satk] <meter id='satk' min='0' max='255' low='80' high='154' optimum='100' value='$row[meterSATK]'></meter>\n";
+                print "SDEF:\t$row[sdef] <meter id='sdef' min='0' max='255' low='80' high='230' optimum='100' value='$row[meterSDEF]'></meter>\n";
+                print "SPD:\t$row[spd] <meter id='spd' min='0' max='255' low='80' high='160' optimum='100' value='$row[meterSPD]'></meter>\n\n";
+
+                while ($e = mysqli_fetch_array($evo_result1, MYSQLI_BOTH))
+                    print "$pkmn_name evolves into $e[next_pkmn] at level $e[level]\n";
+
+                while ($e = mysqli_fetch_array($evo_result2, MYSQLI_BOTH))
+                    print "$pkmn_name evolves into $e[next_pkmn] by using a $e[stone]\n";
+
+                print "<br>";
+
+                print "<u>Learnset:</u>\n";
+                while ($e = mysqli_fetch_array($moves_result, MYSQLI_BOTH))
+                    print "Lv.$e[level] - $e[move_name]<br>";
+                print "\n";
+
+                print "<u>Available Locations:</u>\n";
+                while ($e = mysqli_fetch_array($enc_result, MYSQLI_BOTH))
+                    print "$e[location] - $e[floor] - $e[encounter_type] - $e[perc]%<br>";
+                print "\n";
             }
 
-            print "<input type='checkbox' id='shininess' onclick='swap_img()'>Shiny?<br><br>";
-
-            // Type1, type2, ability1, ability2, stats
-            print "<u>Types:</u>\n$row[type1]\n$row[type2]\n";
-            print "<u>Abilities:</u>\n$row[ability1]\n$row[ability2]\n";
-            print "HP:\t$row[hp] <meter id='hp' min='0' max='255' low='80' high='255' optimum='120' value='$row[meterHP]'></meter>\n";
-            print "ATK:\t$row[atk] <meter id='atk' min='0' max='255' low='80' high='160' optimum='100' value='$row[meterATK]'></meter>\n";
-            print "DEF:\t$row[def] <meter id='def' min='0' max='255' low='80' high='230' optimum='100' value='$row[meterDEF]'></meter>\n";
-            print "SATK:\t$row[satk] <meter id='satk' min='0' max='255' low='80' high='154' optimum='100' value='$row[meterSATK]'></meter>\n";
-            print "SDEF:\t$row[sdef] <meter id='sdef' min='0' max='255' low='80' high='230' optimum='100' value='$row[meterSDEF]'></meter>\n";
-            print "SPD:\t$row[spd] <meter id='spd' min='0' max='255' low='80' high='160' optimum='100' value='$row[meterSPD]'></meter>\n\n";
-
-            while ($e = mysqli_fetch_array($evo_result1, MYSQLI_BOTH))
-                print "$pkmn_name evolves into $e[next_pkmn] at level $e[level]\n";
-
-            while ($e = mysqli_fetch_array($evo_result2, MYSQLI_BOTH))
-                print "$pkmn_name evolves into $e[next_pkmn] by using a $e[stone]\n";
-
-            print "<br>";
-
-            print "<u>Learnset:</u>\n";
-            while ($e = mysqli_fetch_array($moves_result, MYSQLI_BOTH))
-                print "Lv.$e[level] - $e[move_name]<br>";
-            print "\n";
-
-            print "<u>Available Locations:</u>\n";
-            while ($e = mysqli_fetch_array($enc_result, MYSQLI_BOTH))
-                print "$e[location] - $e[floor] - $e[encounter_type] - $e[perc]%<br>";
-            print "\n";
+            print "</pre>";
+            print "</div>";
         }
-
-        print "</pre>";
-        print "</div>";
 
         mysqli_free_result($all_names);
         mysqli_free_result($result);
