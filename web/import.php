@@ -142,10 +142,28 @@
     <?php
     include('header.php');
     ?>
+    
+    <div>
+        This is a simple text parser I used to facilitate inserting large amounts of trainer data into
+        the database, especially when the text as received was of dubious quality. <br>
+        Try the sample!
+    </div>
+    
+    <br>
 
     <div>
         <p>Enter your data:</p>
-        <textarea name="input" id="input" rows="20" cols="50"></textarea><br>
+        <textarea name="input" id="input" rows="15" cols="80">
+Victory Road
+Winstrate
+Vito
+Dusclops m 90 @Leftovers: Shadow Ball, Brick Break, Substitute, Rest [31|Adamant] Pressure
+Slaking m 95 @Leftovers: Crush Claw, Earthquake, Shadow Ball, Superpower [31|Jolly] Truant
+Salamence m 90 @Lum Berry: Dragon Claw, Earthquake, Flamethrower, Air Slash [31|Bold] Intimidate
+Metagross n 90 @Lum Berry: Meteor Mash, Hidden Power Grass, Earthquake, Rock Slide [31|Hasty] Clear Body
+Milotic m 95 @Lum Berry: Mirror Coat, Recover, Ice Beam, Surf [31|Rash] Swift Swim
+Alakazam m 95 @Lum Berry: Psychic, Fire Punch, Thunder Punch, Hidden Power Grass [31|Adamant] Inner Focus
+        </textarea><br>
 
         <button type="button" onclick="parse_trainer_text(document.getElementById('input').value)">GO</button>
     </div>
