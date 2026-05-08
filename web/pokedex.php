@@ -122,6 +122,7 @@
 
         // Loop through results and print data!
         if ($enc_result && mysqli_num_rows($enc_result) > 0) {
+            print "<br>";
             print "<div class='row'>";
             print "<pre>";
             while ($row = mysqli_fetch_array($result, MYSQLI_BOTH)) {
