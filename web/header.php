@@ -15,4 +15,4 @@
     <a href="<?= BASE_URL ?>import.php">Import</a><br>
 </div>
 
-<hr>
+<br>
