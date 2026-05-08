@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 
+<br>
+
 <div>
     <a href="<?= BASE_URL ?>index.php">Home</a> &#183;
     <a href="<?= BASE_URL ?>pokedex.php">Pokedex</a> &#183;
     <a href="<?= BASE_URL ?>trainerdex.php">Trainerdex</a> &#183;
     <a href="<?= BASE_URL ?>locations.php">Encounter Locations</a> &#183;
-    <a href="<?= BASE_URL ?>nuzlocke_tracker.php">Nuzlocke Tracker</a> &#183;
+    <!-- <a href="<?= BASE_URL ?>nuzlocke_tracker.php">Nuzlocke Tracker</a> &#183; -->
     <a href="<?= BASE_URL ?>import.php">Import</a><br>
 </div>
 
