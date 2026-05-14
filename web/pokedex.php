@@ -81,7 +81,7 @@
         if ($pkmn_name == "Select a Pokemon")
             $name_query = $name_query . "ORDER BY dex_num;";
         else {
-            $name_query = $name_query . "WHERE name LIKE ";
+            $name_query = $name_query . "WHERE name = ";
             $name_query = $name_query . "'" . $pkmn_name . "';";
         }
 
@@ -89,28 +89,54 @@
         $evo_query1 =  "SELECT p.name, l.next_pkmn, l.level
                         FROM pokemon p
                             JOIN evolution_levelup l on p.name=l.name
-                        WHERE p.name LIKE ";
+                        WHERE p.name = ";
         $evo_query1 = $evo_query1 . "'" . $pkmn_name . "';";
 
         $evo_query2 =  "SELECT p.name, s.next_pkmn, s.stone
                         FROM pokemon p
                             JOIN evolution_stone s on p.name=s.name
-                        WHERE p.name LIKE ";
+                        WHERE p.name = ";
         $evo_query2 = $evo_query2 . "'" . $pkmn_name . "';";
 
-        // Construct query for movepool data
+        // Construct query for levelup data
         $movepool_query =
             "SELECT move_name, level
             FROM movepool_levelup
-            WHERE name LIKE ";
+            WHERE name = ";
         $movepool_query = $movepool_query . "'" . $pkmn_name . "'";
-        $movepool_query = $movepool_query . " ORDER BY level ASC;";
+        $movepool_query = $movepool_query . " ORDER BY level;";
+        
+        // Construct query for tm/hm data
+        $tmhm_query =
+            "SELECT move_name
+            FROM movepool_tm
+            WHERE name = '" . $pkmn_name . "'";
+        $tmhm_query = $tmhm_query . "
+            UNION
+            SELECT move_name
+            FROM movepool_hm
+            WHERE name = '" . $pkmn_name . "'";
+        $tmhm_query = $tmhm_query . "ORDER BY move_name;";
+            
+        // Construct query for tutor data
+        $tutor_query =
+            "SELECT move_name
+            FROM movepool_tutor
+            WHERE name = '" . $pkmn_name . "'";
+        $tutor_query = $tutor_query . "ORDER BY move_name;";
+        
+        // Construct query for egg move data
+        $egg_query =
+            "SELECT move_name
+            FROM movepool_egg
+            WHERE name = '" . $pkmn_name . "'";
+        $egg_query = $egg_query . "ORDER BY move_name;";
 
         // Construct query for encounter data
         $enc_query =
             "SELECT e.location, e.floor, e.encounter_type, e.perc FROM encounter e JOIN location l on e.location=l.location WHERE name LIKE ";
         $enc_query = $enc_query . "'" . $pkmn_name . "'";
-        $enc_query = $enc_query . " ORDER BY l.sort ASC;";
+        $enc_query = $enc_query . " ORDER BY l.sort;";
 
         // Make the queries
         $enc_result = null;
@@ -118,6 +144,9 @@
         $evo_result1 = mysqli_query($conn, $evo_query1) or die(mysqli_error($conn));
         $evo_result2 = mysqli_query($conn, $evo_query2) or die(mysqli_error($conn));
         $moves_result = mysqli_query($conn, $movepool_query) or die(mysqli_error($conn));
+        $tmhm_result = mysqli_query($conn, $tmhm_query) or die(mysqli_error($conn));
+        $tutor_result = mysqli_query($conn, $tutor_query) or die(mysqli_error($conn));
+        $egg_result = mysqli_query($conn, $egg_query) or die(mysqli_error($conn));
         $enc_result = mysqli_query($conn, $enc_query) or die(mysqli_error($conn));
 
         // Loop through results and print data!
@@ -154,21 +183,51 @@
                 print "SDEF:\t$row[sdef] <meter id='sdef' min='0' max='255' low='80' high='230' optimum='100' value='$row[meterSDEF]'></meter>\n";
                 print "SPD:\t$row[spd] <meter id='spd' min='0' max='255' low='80' high='160' optimum='100' value='$row[meterSPD]'></meter>\n\n";
 
+                // First evolution
                 if (mysqli_num_rows($evo_result1) > 0) {
                     while ($e = mysqli_fetch_array($evo_result1, MYSQLI_BOTH))
                         print "$pkmn_name evolves into $e[next_pkmn] at level $e[level]\n";
                 }
 
+                // Second evolution (if applicable)
                 if (mysqli_num_rows($evo_result2) > 0) {
                     while ($e = mysqli_fetch_array($evo_result2, MYSQLI_BOTH))
                         print "$pkmn_name evolves into $e[next_pkmn] by using a $e[stone]\n";
                 }
+                
+                print "\n";
 
-                print "<br>";
-
-                print "<u>Learnset:</u>\n";
+                // Levelup Moves
+                if (mysqli_num_rows($moves_result) > 0) {
+                print "<u>Levelup Moves:</u>\n";
                 while ($e = mysqli_fetch_array($moves_result, MYSQLI_BOTH))
-                    print "Lv.$e[level] - $e[move_name]<br>";
+                    print "Lv.$e[level] - $e[move_name]\n";
+                print "\n";
+                }
+                
+                // TM/HM Moves
+                if (mysqli_num_rows($tmhm_result) > 0) {
+                print "<u>TM/HM Moves:</u>\n";
+                while ($e = mysqli_fetch_array($tmhm_result, MYSQLI_BOTH))
+                    print "$e[move_name]\n";
+                print "\n";
+                }
+                
+                // Tutor Moves
+                if (mysqli_num_rows($tutor_result) > 0) {
+                print "<u>Tutor Moves:</u>\n";
+                while ($e = mysqli_fetch_array($tutor_result, MYSQLI_BOTH))
+                    print "$e[move_name]\n";
+                print "\n";
+                }
+                
+                // Egg Moves
+                if (mysqli_num_rows($egg_result) > 0) {
+                print "<u>Egg Moves:</u>\n";
+                while ($e = mysqli_fetch_array($egg_result, MYSQLI_BOTH))
+                    print "$e[move_name]\n";
+                print "\n";
+                }
 
                 if (mysqli_num_rows($enc_result) > 0) {
                     print "\n<u>Available Locations:</u>\n";
