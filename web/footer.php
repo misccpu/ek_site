@@ -8,7 +8,8 @@
     <a href="<?= BASE_URL ?>trainerdex.php">Trainerdex</a> &#183;
     <a href="<?= BASE_URL ?>locations.php">Encounter Locations</a> &#183;
     <!-- <a href="<?= BASE_URL ?>nuzlocke_tracker.php">Nuzlocke Tracker</a> &#183; -->
-    <a href="<?= BASE_URL ?>import.php">Import</a><br>
+    <a href="<?= BASE_URL ?>import.php">Import</a> &#183;
+    <a href="<?= BASE_URL ?>movepool_import.php">Movepool Import</a><br>
 </div>
 
 <p><h6>
